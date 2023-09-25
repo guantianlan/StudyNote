@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "6dd3ff381e3af7f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac6c99df9cbf7d8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ddabafb5413a767",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git/git推送至GitHub.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3fe7d418a74d2ef4",
+    "type": "split",
+    "children": [
+      {
+        "id": "929a478a4e619132",
+        "type": "tabs",
+        "dimension": 68.4108527131783,
+        "children": [
+          {
+            "id": "22ac99da8a9c48b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2f6e93bcdfd82926",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "12dcb481c1b7d321",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "af3b350f40ebc589",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "283ffab3dbf0b8b5",
+        "type": "tabs",
+        "dimension": 31.589147286821706,
+        "children": [
+          {
+            "id": "78c1428952901796",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8c5a5bdf8c19a10f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e8cbdf37db13380",
+        "type": "tabs",
+        "dimension": 56.492248062015506,
+        "children": [
+          {
+            "id": "2745f00d833230e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "git/git推送至GitHub.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c9c5a2a0bb115522",
+        "type": "tabs",
+        "dimension": 43.507751937984494,
+        "children": [
+          {
+            "id": "b6be7f777aa5e87f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "git/git推送至GitHub.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "1b6785419e8d8354",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "git/git推送至GitHub.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-file-cleaner:清理文件": false
+    }
+  },
+  "active": "6ddabafb5413a767",
+  "lastOpenFiles": [
+    "git/git推送至GitHub/Pasted image 20230925222015.png",
+    "git/git推送至GitHub/设置信息.png",
+    "git/git推送至GitHub",
+    "数据库/Mysql数据库学习.md",
+    "git/git推送至GitHub.md",
+    "git",
+    "StudyNote",
+    "深度学习/神经网络元素/转置卷积.md",
+    "深度学习/神经网络元素/梯度下降.md",
+    "Java/Java基础学习.md",
+    "Java/Java基础学习/多态向下转型.png",
+    "深度学习/神经网络结构/Unet/Unet网络结构.png",
+    "数据库/Mysql数据库学习/SQL-DQL-语法.png",
+    "Python/使用国内 pip 源.md",
+    "数据库/Mysql数据库学习/SQL-DQL-聚合函数.png",
+    "数据库/Mysql数据库学习/SQL-DQL-条件查询.png",
+    "数据库/数据库链接.md",
+    "数据库/Mysql数据库学习/SQL-DQL-基本查询.png",
+    "数据库/Mysql数据库学习/SQL-DDL-数据库操作.png",
+    "数据库/Mysql数据库学习/SQL-DDL表操作-查询.png",
+    "数据库/Mysql数据库学习/SQL-DDL-表操作-创建.png",
+    "Python/pip.md",
+    "Java/Java基础学习",
+    "Anaconda/linux中Anaconda更换源.md",
+    "Anaconda/linux中Anaconda更换源",
+    "Anaconda/Docker中使用conda不能激活环境问题.md",
+    "Anaconda/Anaconda与pytorch的安装和配置环境.md",
+    "Anaconda/Anaconda与pytorch的安装和配置环境",
+    "数据库/数据库链接",
+    "数据库/Mysql数据库学习",
+    "Mysql数据库学习",
+    "深度学习/神经网络结构/ResNet.md",
+    "深度学习/神经网络结构/GoogleNet.md",
+    "深度学习/随机种子.md",
+    "数据库/img",
+    "深度学习/神经网络结构/VGG.md",
+    "深度学习/神经网络结构/Unet.md",
+    "标签管理.md",
+    "标签面板.md",
+    "GoogleNet.md",
+    "深度学习/未命名.canvas",
+    "Java/String.md",
+    "深度学习/神经网络元素/GoogleNet——Going deeper with convolutions.md",
+    "深度学习/Gradiant Decent（梯度下降）.md",
+    "深度学习/神经网络元素/ResNet——Deep Residual Learning for Image Recognition.md",
+    "深度学习/组成/ResNet——Deep Residual Learning for Image Recognition.md",
+    "深度学习/组成/GoogleNet——Going deeper with convolutions.md",
+    "未命名.canvas"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "promptDelete": true,
+  "attachmentFolderPath": "./git推送至GitHub",
+  "newFileLocation": "root",
+  "alwaysUpdateLinks": true,
+  "foldHeading": true,
+  "showInlineTitle": false,
+  "strictLineBreaks": true,
+  "showFrontmatter": false,
+  "useMarkdownLinks": true,
+  "showLineNumber": false,
+  "newLinkFormat": "relative"
+}

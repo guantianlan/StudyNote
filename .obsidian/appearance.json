@@ -1,0 +1,9 @@
+{
+  "accentColor": "",
+  "theme": "moonstone",
+  "cssTheme": "Moonlight",
+  "enabledCssSnippets": [
+    "imgmid"
+  ],
+  "baseFontSize": 16
+}
