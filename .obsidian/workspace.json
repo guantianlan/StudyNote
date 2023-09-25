@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5a68ae98df8f6ff4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/git推送至GitHub.md"
+                "file": "README.md"
               }
             }
           }
@@ -131,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/git推送至GitHub.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -148,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/git推送至GitHub.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,13 +186,14 @@
       "obsidian-file-cleaner:清理文件": false
     }
   },
-  "active": "6ddabafb5413a767",
+  "active": "5a68ae98df8f6ff4",
   "lastOpenFiles": [
+    "git/git推送至GitHub.md",
+    "README.md",
     "git/git推送至GitHub/Pasted image 20230925222015.png",
     "git/git推送至GitHub/设置信息.png",
     "git/git推送至GitHub",
     "数据库/Mysql数据库学习.md",
-    "git/git推送至GitHub.md",
     "git",
     "StudyNote",
     "深度学习/神经网络元素/转置卷积.md",
@@ -194,7 +209,6 @@
     "数据库/Mysql数据库学习/SQL-DQL-基本查询.png",
     "数据库/Mysql数据库学习/SQL-DDL-数据库操作.png",
     "数据库/Mysql数据库学习/SQL-DDL表操作-查询.png",
-    "数据库/Mysql数据库学习/SQL-DDL-表操作-创建.png",
     "Python/pip.md",
     "Java/Java基础学习",
     "Anaconda/linux中Anaconda更换源.md",
