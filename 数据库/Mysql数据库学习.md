@@ -1,7 +1,7 @@
 # Mysql数据库学习
 #Mysql
 
-
+> [SQL之母 - SQL自学网站](http://sqlmother.yupi.icu/#/learn)*一个 SQL 闯关类闯关类教学*
 ## SQL-DDL 语句
 ### SQL-数据库操作
 ![](Mysql数据库学习/SQL-DDL-数据库操作.png)
