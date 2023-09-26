@@ -109,7 +109,7 @@ conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvi
 
 **注意：这里的 pytorch 是虚拟环境的名字，根据自己实际情况更改**
 
-## [关于 #python的问题 ：指令内容只要需要连接网络，进行 conda 升级等就会出现大量 DEBUG 信息](<DEBUG: urllib3.connectionpool: Starting new HTTPS connection (1): [repo.anaconda.com:443 14](http://repo.anaconda.com:443/) >)
+##  [关于#python#的问题：指令内容只要需要连接网络，进行conda升级等就会出现大量DEBUG信息\_编程语言-CSDN问答](https://ask.csdn.net/questions/7990427)
 
 **原因**
 

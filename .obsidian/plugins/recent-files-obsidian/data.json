@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Anaconda与pytorch的安装和配置环境",
+      "path": "Anaconda/Anaconda与pytorch的安装和配置环境.md"
+    },
+    {
       "basename": "Mysql数据库学习",
       "path": "数据库/Mysql数据库学习.md"
     },
@@ -67,10 +71,6 @@
     {
       "basename": "Docker中使用conda不能激活环境问题",
       "path": "Anaconda/Docker中使用conda不能激活环境问题.md"
-    },
-    {
-      "basename": "Anaconda与pytorch的安装和配置环境",
-      "path": "Anaconda/Anaconda与pytorch的安装和配置环境.md"
     },
     {
       "basename": "编辑系统环境变量",
