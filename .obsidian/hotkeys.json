@@ -14,5 +14,13 @@
       ],
       "key": "ArrowDown"
     }
+  ],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
   ]
 }
