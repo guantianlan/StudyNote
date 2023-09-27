@@ -24,9 +24,12 @@
             "id": "5a68ae98df8f6ff4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Java/Java基础学习/可继承内容.png"
+                "file": "Java/Java基础学习.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java基础学习/可继承内容.png"
+                "file": "Java/Java基础学习.md"
               }
             }
           }
@@ -142,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java基础学习/可继承内容.png",
+                "file": "Java/Java基础学习.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java基础学习/可继承内容.png",
+                "file": "Java/Java基础学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,6 +189,7 @@
   "active": "5a68ae98df8f6ff4",
   "lastOpenFiles": [
     "Java/Java基础学习/多态向下转型.png",
+    "Java/Java基础学习/可继承内容.png",
     "Java/Java基础学习.md",
     "Anaconda/Anaconda与pytorch的安装和配置环境.md",
     "数据库/Mysql数据库学习.md",
