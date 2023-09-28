@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cd24ca843afbc1b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Java基础学习.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,7 +199,7 @@
       "obsidian-file-cleaner:清理文件": false
     }
   },
-  "active": "5a68ae98df8f6ff4",
+  "active": "cd24ca843afbc1b1",
   "lastOpenFiles": [
     "Java/Java基础学习/多态向下转型.png",
     "Java/Java基础学习/可继承内容.png",
