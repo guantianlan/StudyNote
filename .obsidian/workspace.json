@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/git推送至GitHub.md",
+                "file": "Anaconda/Anaconda与pytorch的安装和配置环境.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java基础学习.md"
+                "file": "Anaconda/Anaconda与pytorch的安装和配置环境.md"
               }
             }
           }
@@ -158,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java基础学习.md",
+                "file": "Anaconda/Anaconda与pytorch的安装和配置环境.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java基础学习.md",
+                "file": "Anaconda/Anaconda与pytorch的安装和配置环境.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,15 +198,16 @@
       "obsidian-file-cleaner:清理文件": false
     }
   },
-  "active": "cd24ca843afbc1b1",
+  "active": "6ddabafb5413a767",
   "lastOpenFiles": [
+    "Anaconda/Docker中使用conda不能激活环境问题.md",
+    "git/git推送至GitHub.md",
+    "Java/Java基础学习.md",
     "Java/Java基础学习/多态向下转型.png",
     "Java/Java基础学习/可继承内容.png",
-    "Java/Java基础学习.md",
     "Anaconda/Anaconda与pytorch的安装和配置环境.md",
     "数据库/Mysql数据库学习.md",
     "README.md",
-    "git/git推送至GitHub.md",
     "git/git推送至GitHub/Pasted image 20230925222015.png",
     "git/git推送至GitHub/设置信息.png",
     "git/git推送至GitHub",
@@ -223,12 +223,10 @@
     "数据库/数据库链接.md",
     "数据库/Mysql数据库学习/SQL-DQL-基本查询.png",
     "数据库/Mysql数据库学习/SQL-DDL-数据库操作.png",
-    "数据库/Mysql数据库学习/SQL-DDL表操作-查询.png",
     "Python/pip.md",
     "Java/Java基础学习",
     "Anaconda/linux中Anaconda更换源.md",
     "Anaconda/linux中Anaconda更换源",
-    "Anaconda/Docker中使用conda不能激活环境问题.md",
     "Anaconda/Anaconda与pytorch的安装和配置环境",
     "数据库/数据库链接",
     "数据库/Mysql数据库学习",

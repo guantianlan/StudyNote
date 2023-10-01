@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Anaconda与pytorch的安装和配置环境",
+      "path": "Anaconda/Anaconda与pytorch的安装和配置环境.md"
+    },
+    {
+      "basename": "Docker中使用conda不能激活环境问题",
+      "path": "Anaconda/Docker中使用conda不能激活环境问题.md"
+    },
+    {
+      "basename": "git推送至GitHub",
+      "path": "git/git推送至GitHub.md"
+    },
+    {
       "basename": "Java基础学习",
       "path": "Java/Java基础学习.md"
     },
@@ -13,20 +25,12 @@
       "path": "Java/Java基础学习/可继承内容.png"
     },
     {
-      "basename": "Anaconda与pytorch的安装和配置环境",
-      "path": "Anaconda/Anaconda与pytorch的安装和配置环境.md"
-    },
-    {
       "basename": "Mysql数据库学习",
       "path": "数据库/Mysql数据库学习.md"
     },
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "git推送至GitHub",
-      "path": "git/git推送至GitHub.md"
     },
     {
       "basename": "转置卷积",
@@ -75,10 +79,6 @@
     {
       "basename": "再次查看conda源",
       "path": "Anaconda/linux中Anaconda更换源/再次查看conda源.png"
-    },
-    {
-      "basename": "Docker中使用conda不能激活环境问题",
-      "path": "Anaconda/Docker中使用conda不能激活环境问题.md"
     },
     {
       "basename": "编辑系统环境变量",
