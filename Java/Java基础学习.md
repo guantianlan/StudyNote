@@ -375,13 +375,13 @@ public class cat {
    String name = "abc";
    ~~~
 
-​		**<span style='color:red;background:背景颜色;font-size:文字大小;font-family:字体;'>注意：</span>当使用双引号直接赋值时，系统会检查该字符串在串池中是否存在。
+​		**<span style='color:red;background:背景颜色;font-size:文字大小;font-family:字体;'>注意：</span>**当使用双引号直接赋值时，系统会检查该字符串在串池中是否存在。
 
 ​					不存在：创建新的
 
 ​					存在：复用
 
-2. 用new关键字
+2. ==用new关键字==
 
    例如：
 
