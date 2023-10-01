@@ -381,7 +381,7 @@ public class cat {
 
 ​					存在：复用
 
-2. ==用new关键字==
+2. 用new关键字
 
    例如：
 
