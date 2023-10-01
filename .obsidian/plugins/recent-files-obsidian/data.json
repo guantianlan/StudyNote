@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Java基础学习",
+      "path": "Java/Java基础学习.md"
+    },
+    {
       "basename": "Anaconda与pytorch的安装和配置环境",
       "path": "Anaconda/Anaconda与pytorch的安装和配置环境.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "git推送至GitHub",
       "path": "git/git推送至GitHub.md"
-    },
-    {
-      "basename": "Java基础学习",
-      "path": "Java/Java基础学习.md"
     },
     {
       "basename": "多态向下转型",
