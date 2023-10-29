@@ -58,17 +58,12 @@ IoU是一种测量在特定数据集中检测相应物体准确度的一个标�
 ##  mAP 指标
 ### **TP、FP、FN、TN**
 
-- True Positive (TP): IoU>IOUthresholdIOU_{threshold} (IOUthresholdIOU_{threshold} 一般取 0.5 ) 的检测框数量（同一 Ground Truth 只计算一次）
-- False Positive (FP): IoU<=IOUthresholdIOU_{threshold} 的检测框数量，或者是检测到同一个 GT 的多余检测框的数量
+- True Positive (TP): IoU> $IOU_{threshold}$  ($IOU_{threshold}$ 一般取 0.5 ) 的检测框数量（同一 Ground Truth 只计算一次）
+- False Positive (FP): IoU<= $IOU_{threshold}$ 的检测框数量，或者是检测到同一个 GT 的多余检测框的数量
 - False Negative (FN): 没有检测到的 GT 的数量
 - True Negative (TN): 在 mAP 评价指标中不会使用到
 
-  
-  
-作者：平平无奇的AI  
-链接：https://www.zhihu.com/question/53405779/answer/993913699  
-来源：知乎  
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+$Precision=\frac{TP}{TP+FP}=\frac{TP}{all detections}$
 
 ## confidence
 confidence 的计算公式是：
