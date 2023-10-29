@@ -63,8 +63,11 @@ IoU是一种测量在特定数据集中检测相应物体准确度的一个标�
 - False Negative (FN): 没有检测到的 GT 的数量
 - True Negative (TN): 在 mAP 评价指标中不会使用到
 
-$Precision=\frac{TP}{TP+FP}=\frac{TP}{all detections}$
+$Precision=\frac{TP}{TP+FP}$
+$Recall=\frac{TP}{TP+FN}$
 
+AP 是计算某一类 P-R 曲线下的面积，mAP 则是计算所有类别 P-R 曲线下面积的平均值。
+![](YOLO/map计算公式.png)
 ## confidence
 confidence 的计算公式是：
 ![](YOLO/confidence计算公式.png)
