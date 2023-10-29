@@ -82,7 +82,7 @@ confidence 主要有两个作用
 
 也就是只保留B1.
 
-但是这里还有一个引人深思的问题，为什么 confidence 的定义是 ![](YOLO/confidence计算公式.png) ，直接用 **Pr** 不行吗，直接用 **Pr** 的话就可以把 ground truth 确定下来，训练的时候就方便多了。
+但是这里还有一个引人深思的问题，  为什么 confidence 的定义是 ![](YOLO/confidence计算公式.png) ，直接用 **Pr** 不行吗，直接用 **Pr** 的话就可以把 ground truth 确定下来，训练的时候就方便多了。
 
 这里有一个非常非常鸡贼的技巧！
 
