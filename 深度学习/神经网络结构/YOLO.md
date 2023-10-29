@@ -100,6 +100,7 @@ confidence 主要有两个作用
 
 最后，我们结合极大 bounding box 和 grid 识别的种类，判断图片中有什么物体，它们分别是什么，它们分别在哪。
 
->confidence 主要有两个作用:
- 是用来极大值抑制
- 就是在最后输出结果的时候，将某个 bounding box 的 confidencd 和这个 bounding box 所属的 grid 的类别概率相乘，然后输出。
+>*confidence 主要有两个作用: 1. 是用来极大值抑制 2. 就是在最后输出结果的时候，将某个 bounding box 的 confidencd 和这个 bounding box 所属的 grid 的类别概率相乘，然后输出。*
+
+## 网络架构
+![](YOLO/YOLO网络架构.png)
