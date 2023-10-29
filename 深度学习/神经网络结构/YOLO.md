@@ -98,4 +98,8 @@ confidence 主要有两个作用
 
 我们把B1成为**极大bounding box**，计算极大bounding box和其他几个bounding box的IOU，如果超过一个阈值，例如0.5，就认为这**两个bounding box实际上预测的是同一个物体**，就把其中**confidence比较小**的删除。
 
-最后，我们结合极大bounding box和grid识别的种类，判断图片中有什么物体，它们分别是什么，它们分别在哪。
+最后，我们结合极大 bounding box 和 grid 识别的种类，判断图片中有什么物体，它们分别是什么，它们分别在哪。
+
+>confidence 主要有两个作用:
+ 是用来极大值抑制
+ 就是在最后输出结果的时候，将某个 bounding box 的 confidencd 和这个 bounding box 所属的 grid 的类别概率相乘，然后输出。
