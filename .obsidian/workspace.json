@@ -11,12 +11,9 @@
             "id": "14b55b4dc300a845",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "深度学习/神经网络结构/YOLO.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "深度学习/神经网络结构/YOLO/YOLOv8模型结构.jpg"
               }
             }
           }
@@ -114,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "深度学习/神经网络结构/YOLO.md"
+                "file": "深度学习/神经网络结构/YOLO/YOLOv8模型结构.jpg"
               }
             }
           }
@@ -131,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "深度学习/神经网络结构/YOLO.md",
+                "file": "深度学习/神经网络结构/YOLO/YOLOv8模型结构.jpg",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -148,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "深度学习/神经网络结构/YOLO.md",
+                "file": "深度学习/神经网络结构/YOLO/YOLOv8模型结构.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,9 +171,10 @@
   },
   "active": "14b55b4dc300a845",
   "lastOpenFiles": [
+    "深度学习/神经网络结构/YOLO.md",
+    "深度学习/神经网络结构/YOLO/YOLOv8模型结构.jpg",
     "深度学习/神经网络结构/YOLO/YOLO网络架构.png",
     "StudyNote/README.md",
-    "深度学习/神经网络结构/YOLO.md",
     "深度学习/神经网络结构/YOLO/IOU.png",
     "深度学习/神经网络结构/YOLO/confidence计算公式解释.png",
     "深度学习/神经网络结构/YOLO/confidence计算公式.png",
@@ -187,9 +185,7 @@
     "深度学习/神经网络结构/YOLO/YOLO核心思想.png",
     "深度学习/神经网络结构/YOLO",
     "ground truth长度计算公式.png.md",
-    "深度学习/神经网络结构/ground truth长度计算公式.png",
     "Java/Java基础学习.md",
-    "Java/Java基础学习/Static.jpg",
     "Anaconda/Anaconda与pytorch的安装和配置环境.md",
     "Anaconda/Docker中使用conda不能激活环境问题.md",
     "git/git推送至GitHub.md",

@@ -105,3 +105,7 @@ confidence 主要有两个作用
 ## YOLOv1 
 ### YOLOv1网络架构
 ![](YOLO/YOLO网络架构.png)
+
+## YOLOv8
+### YOLOv8 模型结构
+![](YOLO/YOLOv8模型结构.jpg)
