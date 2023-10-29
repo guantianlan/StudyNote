@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "d438a8ffe7ef52f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YOLO.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5a68ae98df8f6ff4",
             "type": "leaf",
             "state": {
@@ -46,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java基础学习.md"
+                "file": "YOLO.md"
               }
             }
           }
@@ -157,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java基础学习.md",
+                "file": "YOLO.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java基础学习.md",
+                "file": "YOLO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,10 +212,11 @@
       "obsidian-file-cleaner:清理文件": false
     }
   },
-  "active": "6ddabafb5413a767",
+  "active": "d438a8ffe7ef52f9",
   "lastOpenFiles": [
-    "Java/Java基础学习/Static.jpg",
     "Java/Java基础学习.md",
+    "YOLO.md",
+    "Java/Java基础学习/Static.jpg",
     "Anaconda/Anaconda与pytorch的安装和配置环境.md",
     "c076573c35695041592fb97069f0097.jpg",
     "Anaconda/Docker中使用conda不能激活环境问题.md",
@@ -223,7 +238,6 @@
     "数据库/Mysql数据库学习/SQL-DQL-聚合函数.png",
     "数据库/Mysql数据库学习/SQL-DQL-条件查询.png",
     "数据库/数据库链接.md",
-    "数据库/Mysql数据库学习/SQL-DQL-基本查询.png",
     "Python/pip.md",
     "Java/Java基础学习",
     "Anaconda/linux中Anaconda更换源.md",
