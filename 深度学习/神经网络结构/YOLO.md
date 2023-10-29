@@ -59,6 +59,17 @@ IoU是一种测量在特定数据集中检测相应物体准确度的一个标�
 ## confidence
 confidence 的计算公式是：
 ![](YOLO/confidence计算公式.png)
+![](YOLO/confidence计算公式解释.png)
+这个**IOU** 非常有意思，因为它的 groun truth 不是确定的，这导致虽然 **Pr** 的 ground truth 是确定的，但是 bounding box 的 confidence 的 ground truth 是不确定的。
+一个不确定的 ground truth 有什么用呢？
+
+想象这样的问题：老师问小明1+1等于几。小明说等于2，老师又问你有多大的把握你的回答是对的，小明说有80%
+
+这里的80%就是confidence。
+
+confidence 主要有两个作用
+* 是用来极大值抑制
+* 就是在最后输出结果的时候，将某个 bounding box 的 confidencd 和这个 bounding box 所属的 grid 的类别概率相乘，然后输出。
 ## 非极大值抑制
 
 现在我们可以让每个grid找到负责的物体，并把它识别出来了。但是还存在一个不得不考虑的问题，如果物体很大，而框框又很小，一个物体被多个框框识别了怎么办？
