@@ -11,9 +11,12 @@
             "id": "14b55b4dc300a845",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "深度学习/神经网络结构/YOLO/YOLOv8模型结构.jpg"
+                "file": "深度学习/神经网络结构/YOLO.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -111,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "深度学习/神经网络结构/YOLO/YOLOv8模型结构.jpg"
+                "file": "深度学习/神经网络结构/YOLO.md"
               }
             }
           }
@@ -128,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "深度学习/神经网络结构/YOLO/YOLOv8模型结构.jpg",
+                "file": "深度学习/神经网络结构/YOLO.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -145,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "深度学习/神经网络结构/YOLO/YOLOv8模型结构.jpg",
+                "file": "深度学习/神经网络结构/YOLO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,9 +174,9 @@
   },
   "active": "14b55b4dc300a845",
   "lastOpenFiles": [
-    "深度学习/神经网络结构/YOLO.md",
-    "深度学习/神经网络结构/YOLO/YOLOv8模型结构.jpg",
     "深度学习/神经网络结构/YOLO/YOLO网络架构.png",
+    "深度学习/神经网络结构/YOLO/YOLOv8模型结构.jpg",
+    "深度学习/神经网络结构/YOLO.md",
     "StudyNote/README.md",
     "深度学习/神经网络结构/YOLO/IOU.png",
     "深度学习/神经网络结构/YOLO/confidence计算公式解释.png",

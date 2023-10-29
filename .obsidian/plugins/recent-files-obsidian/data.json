@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "YOLOv8模型结构",
-      "path": "深度学习/神经网络结构/YOLO/YOLOv8模型结构.jpg"
-    },
-    {
       "basename": "YOLO",
       "path": "深度学习/神经网络结构/YOLO.md"
+    },
+    {
+      "basename": "YOLO网络架构",
+      "path": "深度学习/神经网络结构/YOLO/YOLO网络架构.png"
+    },
+    {
+      "basename": "YOLOv8模型结构",
+      "path": "深度学习/神经网络结构/YOLO/YOLOv8模型结构.jpg"
     },
     {
       "basename": "Java基础学习",
