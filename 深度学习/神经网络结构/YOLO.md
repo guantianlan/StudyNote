@@ -102,5 +102,6 @@ confidence 主要有两个作用
 
 >*confidence 主要有两个作用: 1. 是用来极大值抑制 2. 就是在最后输出结果的时候，将某个 bounding box 的 confidencd 和这个 bounding box 所属的 grid 的类别概率相乘，然后输出。*
 
-## 网络架构
+## YOLOv1 
+### YOLOv1网络架构
 ![](YOLO/YOLO网络架构.png)
