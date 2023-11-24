@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "ResNet",
+      "path": "深度学习/神经网络结构/ResNet.md"
+    },
+    {
+      "basename": "Unet",
+      "path": "深度学习/神经网络结构/Unet.md"
+    },
+    {
       "basename": "卷积层",
       "path": "深度学习/神经网络元素/卷积层.md"
     },
     {
       "basename": "GoogleNet",
       "path": "深度学习/神经网络结构/GoogleNet.md"
-    },
-    {
-      "basename": "ResNet",
-      "path": "深度学习/神经网络结构/ResNet.md"
     },
     {
       "basename": "VGG",
@@ -143,10 +147,6 @@
     {
       "basename": "1",
       "path": "深度学习/神经网络元素/转置卷积/1.png"
-    },
-    {
-      "basename": "Unet",
-      "path": "深度学习/神经网络结构/Unet.md"
     },
     {
       "basename": "conda默认使用的源",

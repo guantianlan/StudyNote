@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "深度学习/神经网络元素/卷积层.md",
+                "file": "深度学习/神经网络结构/ResNet.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "深度学习/神经网络元素/卷积层.md"
+                "file": "深度学习/神经网络结构/ResNet.md"
               }
             }
           }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "深度学习/神经网络元素/卷积层.md",
+                "file": "深度学习/神经网络结构/ResNet.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "深度学习/神经网络元素/卷积层.md",
+                "file": "深度学习/神经网络结构/ResNet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,6 +188,11 @@
   },
   "active": "61d140dbe3b3cf8d",
   "lastOpenFiles": [
+    "深度学习/神经网络结构/Unet.md",
+    "深度学习/神经网络元素/卷积层.md",
+    "深度学习/神经网络元素/卷积层/全连接层2.png",
+    "深度学习/神经网络元素/卷积层/全连接层.png",
+    "深度学习/神经网络元素/卷积层/池化层.png",
     "深度学习/神经网络元素/卷积层/图片1(1).png",
     "深度学习/神经网络元素/卷积层/卷积层运算过程.gif",
     "深度学习/神经网络元素/卷积层/卷积层运算过程gg.png",
@@ -195,7 +200,6 @@
     "深度学习/神经网络结构/GoogleNet.md",
     "深度学习/神经网络结构/ResNet.md",
     "深度学习/神经网络结构/VGG.md",
-    "深度学习/神经网络元素/卷积层.md",
     "深度学习/神经网络结构/YOLO.md",
     "深度学习/神经网络元素/梯度下降.md",
     "深度学习/随机种子.md",
@@ -205,10 +209,6 @@
     "深度学习/神经网络结构/YOLO/YOLO网络架构.png",
     "深度学习/神经网络结构/YOLO/YOLOv8模型结构.jpg",
     "StudyNote/README.md",
-    "深度学习/神经网络结构/YOLO/IOU.png",
-    "深度学习/神经网络结构/YOLO/confidence计算公式解释.png",
-    "深度学习/神经网络结构/YOLO/confidence计算公式.png",
-    "深度学习/神经网络结构/YOLO/NMS1.jpg",
     "深度学习/神经网络结构/YOLO",
     "ground truth长度计算公式.png.md",
     "Java/Java基础学习.md",
@@ -229,7 +229,6 @@
     "Anaconda/Anaconda与pytorch的安装和配置环境",
     "数据库/数据库链接",
     "数据库/Mysql数据库学习",
-    "深度学习/神经网络结构/Unet.md",
     "标签管理.md",
     "标签面板.md",
     "GoogleNet.md",
