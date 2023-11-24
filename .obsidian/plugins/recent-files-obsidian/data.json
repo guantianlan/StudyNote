@@ -5,6 +5,22 @@
       "path": "深度学习/神经网络元素/卷积层.md"
     },
     {
+      "basename": "GoogleNet",
+      "path": "深度学习/神经网络结构/GoogleNet.md"
+    },
+    {
+      "basename": "ResNet",
+      "path": "深度学习/神经网络结构/ResNet.md"
+    },
+    {
+      "basename": "VGG",
+      "path": "深度学习/神经网络结构/VGG.md"
+    },
+    {
+      "basename": "YOLO",
+      "path": "深度学习/神经网络结构/YOLO.md"
+    },
+    {
       "basename": "梯度下降",
       "path": "深度学习/神经网络元素/梯度下降.md"
     },
@@ -15,10 +31,6 @@
     {
       "basename": "转置卷积",
       "path": "深度学习/神经网络元素/转置卷积.md"
-    },
-    {
-      "basename": "YOLO",
-      "path": "深度学习/神经网络结构/YOLO.md"
     },
     {
       "basename": "YOLO网络架构",
@@ -117,14 +129,6 @@
       "path": "数据库/Mysql数据库学习/时间数据类型.png"
     },
     {
-      "basename": "ResNet",
-      "path": "深度学习/神经网络结构/ResNet.md"
-    },
-    {
-      "basename": "GoogleNet",
-      "path": "深度学习/神经网络结构/GoogleNet.md"
-    },
-    {
       "basename": "torch.nn.ConvTranspose2d",
       "path": "深度学习/神经网络元素/转置卷积/torch.nn.ConvTranspose2d.png"
     },
@@ -139,10 +143,6 @@
     {
       "basename": "1",
       "path": "深度学习/神经网络元素/转置卷积/1.png"
-    },
-    {
-      "basename": "VGG",
-      "path": "深度学习/神经网络结构/VGG.md"
     },
     {
       "basename": "Unet",
