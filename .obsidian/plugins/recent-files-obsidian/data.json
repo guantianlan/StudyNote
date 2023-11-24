@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "卷积层",
+      "path": "深度学习/神经网络元素/卷积层.md"
+    },
+    {
+      "basename": "梯度下降",
+      "path": "深度学习/神经网络元素/梯度下降.md"
+    },
+    {
+      "basename": "随机种子",
+      "path": "深度学习/随机种子.md"
+    },
+    {
+      "basename": "转置卷积",
+      "path": "深度学习/神经网络元素/转置卷积.md"
+    },
+    {
       "basename": "YOLO",
       "path": "深度学习/神经网络结构/YOLO.md"
     },
@@ -47,14 +63,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "转置卷积",
-      "path": "深度学习/神经网络元素/转置卷积.md"
-    },
-    {
-      "basename": "梯度下降",
-      "path": "深度学习/神经网络元素/梯度下降.md"
     },
     {
       "basename": "Unet网络结构",
@@ -115,10 +123,6 @@
     {
       "basename": "GoogleNet",
       "path": "深度学习/神经网络结构/GoogleNet.md"
-    },
-    {
-      "basename": "随机种子",
-      "path": "深度学习/随机种子.md"
     },
     {
       "basename": "torch.nn.ConvTranspose2d",
