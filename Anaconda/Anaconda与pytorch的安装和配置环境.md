@@ -76,10 +76,13 @@ conda activate pytorch
 **Pytorch官网：**[Start Locally | PyTorch](https://pytorch.org/get-started/locally/)
 
 ![[Anaconda与pytorch的安装和配置环境/Pytorch.png]]
-我电脑的 cuda 版本版本是 12.1，所以我使用的命令是：
+我电脑的 cuda 版本版本是 12.0，所以我使用的命令是：
 ~~~
 conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia
 ~~~
+
+>![](Anaconda与pytorch的安装和配置环境/查看cuda版本1.png)
+>![](Anaconda与pytorch的安装和配置环境/查看cuda版本2.png)![](Anaconda与pytorch的安装和配置环境/查看cuda版本3.png)
 
 ## 在VScode中将翻译器改为pytorch
 
@@ -101,7 +104,9 @@ conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvi
 
 ![微信截图_20221115131431](http://43.156.9.132:7791/i/2022/11/18/637799d263f59.png)
 
-### 修改默认的python环境
+### 修改默认的 python 环境
+
+注意，得先完成上面的bu'zhou
 
 在系统变量里将原路径改为[conda](https://so.csdn.net/so/search?q=conda&spm=1001.2101.3001.7020)创建的虚拟环境的路径：
 
