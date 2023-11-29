@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "深度学习/神经网络元素/梯度下降.md",
+                "file": "深度学习/神经网络结构/GoogleNet.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc59efd6af6e6fc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anaconda/linux中Anaconda更换源.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "深度学习/神经网络元素/激活函数.md"
+                "file": "Anaconda/linux中Anaconda更换源.md"
               }
             }
           }
@@ -158,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "深度学习/神经网络元素/激活函数.md",
+                "file": "Anaconda/linux中Anaconda更换源.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "深度学习/神经网络元素/激活函数.md",
+                "file": "Anaconda/linux中Anaconda更换源.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,17 +212,25 @@
       "obsidian-file-cleaner:清理文件": false
     }
   },
-  "active": "598d5516aaf99eb8",
+  "active": "fc59efd6af6e6fc4",
   "lastOpenFiles": [
+    "Anaconda/Docker中使用conda不能激活环境问题.md",
+    "Anaconda/Anaconda与pytorch的安装和配置环境.md",
+    "深度学习/神经网络结构/YOLO.md",
+    "深度学习/神经网络结构/VGG.md",
+    "深度学习/神经网络结构/Unet.md",
+    "深度学习/神经网络结构/ResNet.md",
+    "深度学习/神经网络结构/GoogleNet.md",
+    "深度学习/随机种子.md",
+    "深度学习/神经网络元素/转置卷积.md",
+    "深度学习/神经网络元素/梯度下降.md",
+    "深度学习/神经网络元素/卷积层.md",
+    "深度学习/神经网络元素/激活函数.md",
+    "深度学习/神经网络元素/激活函数/为什么需要激活函数.png",
     "深度学习/神经网络元素/激活函数/ReLU激活函数.webp",
     "深度学习/神经网络元素/激活函数/tanh 激活函数.webp",
     "深度学习/神经网络元素/激活函数/Sigmoid函数.webp",
-    "深度学习/神经网络元素/激活函数/为什么需要激活函数.png",
     "深度学习/神经网络元素/激活函数",
-    "深度学习/神经网络结构/ResNet.md",
-    "深度学习/神经网络元素/激活函数.md",
-    "深度学习/神经网络结构/Unet.md",
-    "深度学习/神经网络元素/卷积层.md",
     "深度学习/神经网络元素/卷积层/全连接层2.png",
     "深度学习/神经网络元素/卷积层/全连接层.png",
     "深度学习/神经网络元素/卷积层/池化层.png",
@@ -217,19 +238,10 @@
     "深度学习/神经网络元素/卷积层/卷积层运算过程.gif",
     "深度学习/神经网络元素/卷积层/卷积层运算过程gg.png",
     "深度学习/神经网络元素/卷积层",
-    "深度学习/神经网络结构/GoogleNet.md",
-    "深度学习/神经网络结构/VGG.md",
-    "深度学习/神经网络结构/YOLO.md",
-    "深度学习/神经网络元素/梯度下降.md",
-    "深度学习/随机种子.md",
-    "深度学习/神经网络元素/转置卷积.md",
-    "深度学习/神经网络结构/YOLO/YOLO指标分析.png",
     "StudyNote/README.md",
     "深度学习/神经网络结构/YOLO",
     "ground truth长度计算公式.png.md",
     "Java/Java基础学习.md",
-    "Anaconda/Anaconda与pytorch的安装和配置环境.md",
-    "Anaconda/Docker中使用conda不能激活环境问题.md",
     "git/git推送至GitHub.md",
     "数据库/Mysql数据库学习.md",
     "README.md",

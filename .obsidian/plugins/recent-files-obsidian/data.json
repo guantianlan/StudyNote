@@ -1,36 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "激活函数",
-      "path": "深度学习/神经网络元素/激活函数.md"
+      "basename": "linux中Anaconda更换源",
+      "path": "Anaconda/linux中Anaconda更换源.md"
     },
     {
-      "basename": "ResNet",
-      "path": "深度学习/神经网络结构/ResNet.md"
+      "basename": "Docker中使用conda不能激活环境问题",
+      "path": "Anaconda/Docker中使用conda不能激活环境问题.md"
     },
     {
-      "basename": "Unet",
-      "path": "深度学习/神经网络结构/Unet.md"
-    },
-    {
-      "basename": "卷积层",
-      "path": "深度学习/神经网络元素/卷积层.md"
-    },
-    {
-      "basename": "GoogleNet",
-      "path": "深度学习/神经网络结构/GoogleNet.md"
-    },
-    {
-      "basename": "VGG",
-      "path": "深度学习/神经网络结构/VGG.md"
+      "basename": "Anaconda与pytorch的安装和配置环境",
+      "path": "Anaconda/Anaconda与pytorch的安装和配置环境.md"
     },
     {
       "basename": "YOLO",
       "path": "深度学习/神经网络结构/YOLO.md"
     },
     {
-      "basename": "梯度下降",
-      "path": "深度学习/神经网络元素/梯度下降.md"
+      "basename": "VGG",
+      "path": "深度学习/神经网络结构/VGG.md"
+    },
+    {
+      "basename": "Unet",
+      "path": "深度学习/神经网络结构/Unet.md"
+    },
+    {
+      "basename": "ResNet",
+      "path": "深度学习/神经网络结构/ResNet.md"
+    },
+    {
+      "basename": "GoogleNet",
+      "path": "深度学习/神经网络结构/GoogleNet.md"
     },
     {
       "basename": "随机种子",
@@ -39,6 +39,22 @@
     {
       "basename": "转置卷积",
       "path": "深度学习/神经网络元素/转置卷积.md"
+    },
+    {
+      "basename": "梯度下降",
+      "path": "深度学习/神经网络元素/梯度下降.md"
+    },
+    {
+      "basename": "卷积层",
+      "path": "深度学习/神经网络元素/卷积层.md"
+    },
+    {
+      "basename": "激活函数",
+      "path": "深度学习/神经网络元素/激活函数.md"
+    },
+    {
+      "basename": "为什么需要激活函数",
+      "path": "深度学习/神经网络元素/激活函数/为什么需要激活函数.png"
     },
     {
       "basename": "YOLO网络架构",
@@ -55,14 +71,6 @@
     {
       "basename": "Static",
       "path": "Java/Java基础学习/Static.jpg"
-    },
-    {
-      "basename": "Anaconda与pytorch的安装和配置环境",
-      "path": "Anaconda/Anaconda与pytorch的安装和配置环境.md"
-    },
-    {
-      "basename": "Docker中使用conda不能激活环境问题",
-      "path": "Anaconda/Docker中使用conda不能激活环境问题.md"
     },
     {
       "basename": "git推送至GitHub",
@@ -115,10 +123,6 @@
     {
       "basename": "SQL-DML-删除数据",
       "path": "数据库/Mysql数据库学习/SQL-DML-删除数据.png"
-    },
-    {
-      "basename": "linux中Anaconda更换源",
-      "path": "Anaconda/linux中Anaconda更换源.md"
     },
     {
       "basename": "再次查看conda源",
