@@ -106,7 +106,7 @@ conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvi
 
 ### 修改默认的 python 环境
 
-注意，得先完成上面的bu'zhou
+注意，得先完成上面的步骤再更换
 
 在系统变量里将原路径改为[conda](https://so.csdn.net/so/search?q=conda&spm=1001.2101.3001.7020)创建的虚拟环境的路径：
 
@@ -115,6 +115,7 @@ conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvi
 **注意：这里的 pytorch 是虚拟环境的名字，根据自己实际情况更改**
 
 ##  [关于#python#的问题：指令内容只要需要连接网络，进行conda升级等就会出现大量DEBUG信息\_编程语言-CSDN问答](https://ask.csdn.net/questions/7990427)
+![](Anaconda与pytorch的安装和配置环境/conda%20update%20%20conda失败.png)
 
 **原因**
 
