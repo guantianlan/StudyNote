@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Anaconda与pytorch的安装和配置环境",
+      "path": "Anaconda/Anaconda与pytorch的安装和配置环境.md"
+    },
+    {
       "basename": "LeNet",
       "path": "深度学习/神经网络结构/LeNet.md"
     },
     {
       "basename": "卷积层",
       "path": "深度学习/神经网络元素/卷积层.md"
-    },
-    {
-      "basename": "Anaconda与pytorch的安装和配置环境",
-      "path": "Anaconda/Anaconda与pytorch的安装和配置环境.md"
     },
     {
       "basename": "Docker中使用conda不能激活环境问题",
