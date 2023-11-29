@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5f548c0cf618aafc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LeNet.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anaconda/Anaconda与pytorch的安装和配置环境.md"
+                "file": "LeNet.md"
               }
             }
           }
@@ -131,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anaconda/Anaconda与pytorch的安装和配置环境.md",
+                "file": "LeNet.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -148,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anaconda/Anaconda与pytorch的安装和配置环境.md",
+                "file": "LeNet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,12 +186,13 @@
       "obsidian-file-cleaner:清理文件": false
     }
   },
-  "active": "fc59efd6af6e6fc4",
+  "active": "5f548c0cf618aafc",
   "lastOpenFiles": [
+    "Anaconda/Anaconda与pytorch的安装和配置环境.md",
+    "LeNet.md",
     "Anaconda/Anaconda与pytorch的安装和配置环境/conda update  conda失败.png",
     "Anaconda/Docker中使用conda不能激活环境问题.md",
     "Anaconda/linux中Anaconda更换源.md",
-    "Anaconda/Anaconda与pytorch的安装和配置环境.md",
     "Anaconda/Anaconda与pytorch的安装和配置环境/查看cuda版本3.png",
     "Anaconda/Anaconda与pytorch的安装和配置环境/查看cuda版本2.png",
     "Anaconda/Anaconda与pytorch的安装和配置环境/查看cuda版本1.png",
@@ -198,7 +213,6 @@
     "深度学习/神经网络元素/激活函数",
     "深度学习/神经网络元素/卷积层/全连接层2.png",
     "深度学习/神经网络元素/卷积层/全连接层.png",
-    "深度学习/神经网络元素/卷积层/池化层.png",
     "深度学习/神经网络元素/卷积层",
     "StudyNote/README.md",
     "深度学习/神经网络结构/YOLO",
