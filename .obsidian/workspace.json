@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "深度学习/神经网络结构/LeNet.md",
+                "file": "深度学习/神经网络元素/卷积层.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "深度学习/神经网络结构/LeNet.md"
+                "file": "深度学习/神经网络元素/卷积层.md"
               }
             }
           }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "深度学习/神经网络结构/LeNet.md",
+                "file": "深度学习/神经网络元素/卷积层.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "深度学习/神经网络结构/LeNet.md",
+                "file": "深度学习/神经网络元素/卷积层.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,12 +188,12 @@
   },
   "active": "5f548c0cf618aafc",
   "lastOpenFiles": [
+    "深度学习/神经网络结构/LeNet.md",
     "深度学习/神经网络结构/LeNet/16个特征图.png",
     "深度学习/神经网络结构/LeNet/LeNet结构2.jpg",
     "深度学习/神经网络结构/LeNet/LeNet结构.png",
     "深度学习/神经网络结构/LeNet",
     "Anaconda/Anaconda与pytorch的安装和配置环境.md",
-    "深度学习/神经网络结构/LeNet.md",
     "Anaconda/Anaconda与pytorch的安装和配置环境/conda update  conda失败.png",
     "Anaconda/Docker中使用conda不能激活环境问题.md",
     "Anaconda/linux中Anaconda更换源.md",
@@ -213,7 +213,6 @@
     "深度学习/神经网络元素/激活函数/为什么需要激活函数.png",
     "深度学习/神经网络元素/激活函数/ReLU激活函数.webp",
     "深度学习/神经网络元素/激活函数/tanh 激活函数.webp",
-    "深度学习/神经网络元素/激活函数/Sigmoid函数.webp",
     "深度学习/神经网络元素/激活函数",
     "深度学习/神经网络元素/卷积层",
     "StudyNote/README.md",
