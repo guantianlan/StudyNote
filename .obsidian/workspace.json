@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "深度学习/神经网络元素/卷积层.md"
+                "file": "深度学习/神经网络元素/全连接层.md"
               }
             }
           }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "深度学习/神经网络元素/卷积层.md",
+                "file": "深度学习/神经网络元素/全连接层.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "深度学习/神经网络元素/卷积层.md",
+                "file": "深度学习/神经网络元素/全连接层.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
       "obsidian-file-cleaner:清理文件": false
     }
   },
-  "active": "22ac99da8a9c48b5",
+  "active": "14ceed4c695ae9ed",
   "lastOpenFiles": [
     "深度学习/神经网络元素/卷积层.md",
     "深度学习/神经网络元素/全连接层.md",
