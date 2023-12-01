@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Anaconda与pytorch的安装和配置环境",
-      "path": "Anaconda/Anaconda与pytorch的安装和配置环境.md"
+      "basename": "随机种子",
+      "path": "深度学习/随机种子.md"
+    },
+    {
+      "basename": "转置卷积",
+      "path": "深度学习/神经网络元素/转置卷积.md"
+    },
+    {
+      "basename": "梯度下降",
+      "path": "深度学习/神经网络元素/梯度下降.md"
+    },
+    {
+      "basename": "卷积层",
+      "path": "深度学习/神经网络元素/卷积层.md"
     },
     {
       "basename": "LeNet",
       "path": "深度学习/神经网络结构/LeNet.md"
     },
     {
-      "basename": "卷积层",
-      "path": "深度学习/神经网络元素/卷积层.md"
+      "basename": "激活函数",
+      "path": "深度学习/神经网络元素/激活函数.md"
+    },
+    {
+      "basename": "Anaconda与pytorch的安装和配置环境",
+      "path": "Anaconda/Anaconda与pytorch的安装和配置环境.md"
     },
     {
       "basename": "Docker中使用conda不能激活环境问题",
@@ -39,22 +55,6 @@
     {
       "basename": "GoogleNet",
       "path": "深度学习/神经网络结构/GoogleNet.md"
-    },
-    {
-      "basename": "随机种子",
-      "path": "深度学习/随机种子.md"
-    },
-    {
-      "basename": "转置卷积",
-      "path": "深度学习/神经网络元素/转置卷积.md"
-    },
-    {
-      "basename": "梯度下降",
-      "path": "深度学习/神经网络元素/梯度下降.md"
-    },
-    {
-      "basename": "激活函数",
-      "path": "深度学习/神经网络元素/激活函数.md"
     },
     {
       "basename": "为什么需要激活函数",
