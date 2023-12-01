@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "深度学习/神经网络元素/全连接层.md"
+                "file": "深度学习/神经网络元素/卷积层.md"
               }
             }
           }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "深度学习/神经网络元素/全连接层.md",
+                "file": "深度学习/神经网络元素/卷积层.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "深度学习/神经网络元素/全连接层.md",
+                "file": "深度学习/神经网络元素/卷积层.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
