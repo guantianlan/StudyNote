@@ -13,14 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "深度学习/随机种子.md",
+                "file": "深度学习/神经网络元素/卷积层.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6322ae9d75503ba4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "深度学习/神经网络元素/卷积层.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14ceed4c695ae9ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "深度学习/神经网络元素/全连接层.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "深度学习/随机种子.md"
+                "file": "深度学习/神经网络元素/全连接层.md"
               }
             }
           }
@@ -131,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "深度学习/随机种子.md",
+                "file": "深度学习/神经网络元素/全连接层.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -148,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "深度学习/随机种子.md",
+                "file": "深度学习/神经网络元素/全连接层.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,11 +199,14 @@
       "obsidian-file-cleaner:清理文件": false
     }
   },
-  "active": "73eb8209171a6d56",
+  "active": "22ac99da8a9c48b5",
   "lastOpenFiles": [
+    "深度学习/神经网络元素/卷积层.md",
+    "深度学习/神经网络元素/全连接层.md",
+    "深度学习/神经网络元素/池化层.md",
+    "深度学习/随机种子.md",
     "深度学习/神经网络元素/转置卷积.md",
     "深度学习/神经网络元素/梯度下降.md",
-    "深度学习/神经网络元素/卷积层.md",
     "深度学习/神经网络结构/LeNet.md",
     "深度学习/神经网络元素/激活函数.md",
     "Anaconda/Anaconda与pytorch的安装和配置环境.md",
@@ -196,7 +226,6 @@
     "深度学习/神经网络结构/Unet.md",
     "深度学习/神经网络结构/ResNet.md",
     "深度学习/神经网络结构/GoogleNet.md",
-    "深度学习/随机种子.md",
     "深度学习/神经网络元素/激活函数/为什么需要激活函数.png",
     "深度学习/神经网络元素/激活函数/ReLU激活函数.webp",
     "深度学习/神经网络元素/激活函数",
@@ -218,7 +247,6 @@
     "Anaconda/linux中Anaconda更换源",
     "Anaconda/Anaconda与pytorch的安装和配置环境",
     "标签管理.md",
-    "标签面板.md",
     "深度学习/未命名.canvas",
     "未命名.canvas"
   ]
