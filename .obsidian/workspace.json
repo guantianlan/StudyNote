@@ -4,50 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c8218593967ef906",
+        "id": "d218548ef05b4a6d",
         "type": "tabs",
         "children": [
           {
-            "id": "73eb8209171a6d56",
+            "id": "0b20f2c8c9b33aa0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "深度学习/神经网络元素/卷积层.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6322ae9d75503ba4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "深度学习/神经网络元素/卷积层.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14ceed4c695ae9ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "深度学习/神经网络元素/全连接层.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,9 +108,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "深度学习/神经网络元素/全连接层.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "深度学习/神经网络元素/全连接层.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "深度学习/神经网络元素/全连接层.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +163,7 @@
       "obsidian-file-cleaner:清理文件": false
     }
   },
-  "active": "14ceed4c695ae9ed",
+  "active": "0b20f2c8c9b33aa0",
   "lastOpenFiles": [
     "深度学习/神经网络元素/卷积层.md",
     "深度学习/神经网络元素/全连接层.md",
