@@ -2,25 +2,25 @@
 
 ## JAVA
 
-[Java基础学习](Java/Java基础学习.md)
+[Java 基础学习](Java/Java基础学习.md)
 
 ## Anaconda
 
-[Anaconda与pytorch的安装和配置环境](Anaconda/Anaconda与pytorch的安装和配置环境.md)
+[Anaconda 与 pytorch 的安装和配置环境](Anaconda/Anaconda与pytorch的安装和配置环境.md)
 
-[Docker中使用conda不能激活环境问题](Anaconda/Docker中使用conda不能激活环境问题.md)
+[Docker 中使用 conda 不能激活环境问题](Anaconda/Docker中使用conda不能激活环境问题.md)
 
-[linux中Anaconda更换源](Anaconda/linux中Anaconda更换源.md)
+[linux 中 Anaconda 更换源](Anaconda/linux中Anaconda更换源.md)
 
 ## git
 
-[git推送至GitHub](git/git推送至GitHub.md)
+[git 推送至 GitHub](git/git推送至GitHub.md)
 
 ## 数据库
 
 [数据库链接](数据库/数据库链接.md)
 
-[Mysql数据库学习](数据库/Mysql数据库学习.md)
+[Mysql 数据库学习](数据库/Mysql数据库学习.md)
 
 ## 深度学习
 
@@ -53,4 +53,3 @@
 [VGG](深度学习/神经网络结构/VGG.md)
 
 [YOLO](深度学习/神经网络结构/YOLO.md)
-
