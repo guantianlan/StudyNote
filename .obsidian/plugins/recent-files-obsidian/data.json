@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Mysql数据库学习",
+      "path": "数据库/Mysql数据库学习.md"
+    },
+    {
+      "basename": "数据库链接",
+      "path": "数据库/数据库链接.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -101,20 +109,12 @@
       "path": "Java/Java基础学习/可继承内容.png"
     },
     {
-      "basename": "Mysql数据库学习",
-      "path": "数据库/Mysql数据库学习.md"
-    },
-    {
       "basename": "Unet网络结构",
       "path": "深度学习/神经网络结构/Unet/Unet网络结构.png"
     },
     {
       "basename": "SQL-DQL-语法",
       "path": "数据库/Mysql数据库学习/SQL-DQL-语法.png"
-    },
-    {
-      "basename": "数据库链接",
-      "path": "数据库/数据库链接.md"
     },
     {
       "basename": "SQL-DQL-基本查询",
