@@ -299,4 +299,16 @@ SELECT 字段列表 FROM 表名 [WHERE 条件] GROUP BY 分组字段名 [HAVING 
 | :------ |------|
 |女|7|
 |男|9|
- 
+
+### SQL-DQL-排序查询
+
+1. 语法
+
+```sql
+SELECT 字段列表 FROM 表名 ORDER BY 字段1 排序方式1 ，字段2 排序方式2
+```
+
+2. 排序方式
+
+* ASC：升序（默认值）
+* DESC：降序
