@@ -5,12 +5,12 @@
       "path": "数据库/Mysql数据库学习.md"
     },
     {
-      "basename": "数据库链接",
-      "path": "数据库/数据库链接.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "数据库链接",
+      "path": "数据库/数据库链接.md"
     },
     {
       "basename": "卷积层",

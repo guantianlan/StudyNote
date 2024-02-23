@@ -174,8 +174,9 @@
   },
   "active": "0b20f2c8c9b33aa0",
   "lastOpenFiles": [
-    "数据库/数据库链接.md",
     "README.md",
+    "数据库/Mysql数据库学习.md",
+    "数据库/数据库链接.md",
     "深度学习/神经网络元素/卷积层.md",
     "深度学习/神经网络元素/全连接层.md",
     "深度学习/神经网络元素/池化层.md",
@@ -210,7 +211,6 @@
     "ground truth长度计算公式.png.md",
     "Java/Java基础学习.md",
     "git/git推送至GitHub.md",
-    "数据库/Mysql数据库学习.md",
     "git/git推送至GitHub",
     "git",
     "StudyNote",
