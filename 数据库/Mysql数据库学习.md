@@ -281,8 +281,8 @@ SELECT 字段列表 FROM 表名 [WHERE 条件] GROUP BY 分组字段名 [HAVING 
 * 判断条件不同： where 不能对聚合函数进行判断，而 having 可以。
 
 **举例：**
-查询年龄小于 45 的员工，并根据工作地址分组，获取员工数量大于 3 的工作地址
-`select * from emp where age < 45 group by workaddress having count(id)>3`
+查询年龄小于 45 的员工，并根据工作地址分组，获取员工数量大于等于 3 的工作地址
+`select workaddress,count(*) from emp where age < 45 group by workaddress having count(*)>=3`
 
 **注意：**
  1.  
