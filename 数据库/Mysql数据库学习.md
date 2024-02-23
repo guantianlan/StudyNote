@@ -266,3 +266,15 @@ SELECT 聚合函数(字段列表) FROM 表名;
 |avg|平均值|
 |sum|求和|
 >注意：null 值是不参与所有聚合函数运算的
+
+### SQL-DQL-分组查询
+
+1. 语法
+```SQL
+SELECT 字段列表 FROM 表名 [WHERE 条件] GROUP BY 分组字段名 [HAVING  分组后过滤条件]
+```
+2. where 和 having 的区别
+
+*  执行时机不同：where 是分组之前进行过滤，不满足不满足 where 条件，不参与不参与分组；而 having 是分组之后对结果进行过滤。
+* 判断条件不同： where 不能对聚合函数进行判断，而 having 可以。
+
