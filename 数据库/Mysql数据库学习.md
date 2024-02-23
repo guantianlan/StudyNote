@@ -188,7 +188,8 @@ UPDATE 表名 SET 字段名 1=值1 ,字段名2=值2, ....[WHERE 条件]
 ~~~sql
 DELETE FROM 表名 [WHERE 条件]
 ~~~
-
+>  修改某个字段的时候可以使用 ：
+>  ` UPDATE 表名 SET 字段1 = NONE，,字段名2=NONE, ....[WHERE 条件]` 
 ## DQL 语句
 
 ![](Mysql数据库学习/SQL-DQL-语法.png)
