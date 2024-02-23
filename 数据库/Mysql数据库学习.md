@@ -280,6 +280,10 @@ SELECT 字段列表 FROM 表名 [WHERE 条件] GROUP BY 分组字段名 [HAVING 
 *  执行时机不同：where 是分组之前进行过滤，不满足不满足 where 条件，不参与不参与分组；而 having 是分组之后对结果进行过滤。
 * 判断条件不同： where 不能对聚合函数进行判断，而 having 可以。
 
+**举例：**
+查询年龄小于 45 的员工，并根据工作地址分组，获取员工数量大于 3 的工作地址
+`select * from emp where age < 45 group by workaddress having count(id)>3`
+
 **注意：**
  1.  
 当使用 `select count(*) from emp group by gender` 统计男性员工和女性员工的数量时，会出现下面这种情况
@@ -295,3 +299,4 @@ SELECT 字段列表 FROM 表名 [WHERE 条件] GROUP BY 分组字段名 [HAVING 
 | :------ |------|
 |女|7|
 |男|9|
+ 
