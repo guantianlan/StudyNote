@@ -301,7 +301,7 @@ SELECT 字段列表 FROM 表名 [WHERE 条件] GROUP BY 分组字段名 [HAVING 
 |男|9|
 
 ### SQL-DQL-排序查询
-
+![](Mysql数据库学习/SQL-DQL-排序查询.png)
 1. 语法
 
 ```sql
