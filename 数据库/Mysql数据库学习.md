@@ -335,5 +335,11 @@ select * from emp where gender = '女' and age in(20,21,22,23);
 ```
 2. 查询性别为男，并且且年龄在 20-40 岁（含）以内姓名为 3 个个字的员工
 ```sql
-select * from emp where gender = '男' and age<=40  and age>20 and 
+select * from emp where gender = '男' and age betteen 20 and 40 and name like '___'
 ```
+
+```sql
+select * from emp where gender = '男' and (age betteen 20 and 40) and name like '___'
+```
+
+3. 
