@@ -329,3 +329,11 @@ SELECT 字段列表 FROM 表名 LIMIT 起始索引，查询记录数;
 
 ### 案例
 
+1. 查询年龄为 20，21，22，23 岁的女性员工信息。
+```sql
+select * from emp where gender = '女' and age in(20,21,22,23);
+```
+2. 查询性别为男，并且且年龄在 20-40 岁（含）以内姓名为 3 个个字的员工
+```sql
+select * from emp where gender = '男' and age<=40  and age>20 and 
+```
