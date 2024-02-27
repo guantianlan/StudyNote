@@ -174,13 +174,13 @@
       "obsidian-file-cleaner:清理文件": false
     }
   },
-  "active": "2745f00d833230e8",
+  "active": "0b20f2c8c9b33aa0",
   "lastOpenFiles": [
+    "README.md",
+    "数据库/Mysql数据库学习.md",
     "数据库/Mysql数据库学习/SQL-DQL-分页查询.png",
     "数据库/Mysql数据库学习/SQL-DQL-排序查询.png",
     "数据库/Mysql数据库学习/SQL-DQL-分组查询.png",
-    "README.md",
-    "数据库/Mysql数据库学习.md",
     "数据库/数据库链接.md",
     "深度学习/神经网络元素/卷积层.md",
     "深度学习/神经网络元素/全连接层.md",
@@ -201,7 +201,6 @@
     "Anaconda/linux中Anaconda更换源.md",
     "Anaconda/Anaconda与pytorch的安装和配置环境/查看cuda版本3.png",
     "Anaconda/Anaconda与pytorch的安装和配置环境/查看cuda版本2.png",
-    "Anaconda/Anaconda与pytorch的安装和配置环境/查看cuda版本1.png",
     "深度学习/神经网络结构/YOLO.md",
     "深度学习/神经网络结构/VGG.md",
     "深度学习/神经网络结构/Unet.md",
