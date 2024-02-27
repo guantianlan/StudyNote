@@ -353,4 +353,9 @@ select gender , count(*) from emp where age<60 group by gender
 select name age from emp where age<=35 order by age asc , entrydate desc
 ```
 
-5. 查询性别为男，并且年龄在 20-40 岁（含）以内的前 5 个员工信息，对查询的结果
+5. 查询性别为男，并且年龄在 20-40 岁（含）以内的前 5 个员工信息，对查询的结果按年龄升序排序，年龄相同的按入职时间升序排序
+```sql
+select * from emp where age>=20 and age<=40 and gender = '男' order by age asc, entrydate asc limit in 0 ,5
+```
+
+**注意：** 不可写成 `limit in 0,5 order by age asc,entrydate asc` 会报错
