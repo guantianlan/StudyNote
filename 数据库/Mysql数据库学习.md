@@ -346,3 +346,11 @@ select * from emp where gender = '男' and (age betteen 20 and 40) and name like
 ```sql
 select gender , count(*) from emp where age<60 group by gender
 ```
+
+4. 查询所有年龄小于等于 35 岁员工的姓名和年龄，并对查询结果进行升序排序，如果年龄相同按入职时间降序排序
+
+```sql
+select name age from emp where age<=35 order by age asc , entrydate desc
+```
+
+5. 查询性别为男，并且年龄在 20-40 岁（含）以内的前 5 个员工信息，对查询的结果
