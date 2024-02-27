@@ -342,4 +342,7 @@ select * from emp where gender = '男' and age betteen 20 and 40 and name like '
 select * from emp where gender = '男' and (age betteen 20 and 40) and name like '___'
 ```
 
-3. 
+3. 统计员工表中，年龄小于 60 岁的，男性男性员工和女性员工的人数。
+```sql
+select gender , count(*) from emp where age<60 group by gender
+```
