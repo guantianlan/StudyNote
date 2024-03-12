@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b62afb696382c685",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,7 +184,7 @@
       "obsidian-file-cleaner:清理文件": false
     }
   },
-  "active": "0b20f2c8c9b33aa0",
+  "active": "b62afb696382c685",
   "lastOpenFiles": [
     "README.md",
     "数据库/Mysql数据库学习.md",
