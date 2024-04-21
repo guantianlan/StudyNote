@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库/Mysql数据库学习.md",
+                "file": "深度学习/神经网络元素/梯度下降.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/Mysql数据库学习.md"
+                "file": "深度学习/神经网络元素/梯度下降.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/Mysql数据库学习.md",
+                "file": "深度学习/神经网络元素/梯度下降.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/Mysql数据库学习.md",
+                "file": "深度学习/神经网络元素/梯度下降.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,20 +174,21 @@
   },
   "active": "0b20f2c8c9b33aa0",
   "lastOpenFiles": [
-    "README.md",
+    "深度学习/神经网络元素/转置卷积.md",
+    "深度学习/神经网络元素/梯度下降.md",
+    "深度学习/神经网络元素/全连接层.md",
+    "深度学习/神经网络元素/卷积层.md",
+    "深度学习/神经网络元素/激活函数.md",
+    "深度学习/神经网络元素/池化层.md",
+    "深度学习/神经网络结构/GoogleNet.md",
+    "深度学习/神经网络结构/LeNet.md",
     "数据库/Mysql数据库学习.md",
+    "README.md",
     "数据库/Mysql数据库学习/SQL-DQL-分页查询.png",
     "数据库/Mysql数据库学习/SQL-DQL-排序查询.png",
     "数据库/Mysql数据库学习/SQL-DQL-分组查询.png",
     "数据库/数据库链接.md",
-    "深度学习/神经网络元素/卷积层.md",
-    "深度学习/神经网络元素/全连接层.md",
-    "深度学习/神经网络元素/池化层.md",
     "深度学习/随机种子.md",
-    "深度学习/神经网络元素/转置卷积.md",
-    "深度学习/神经网络元素/梯度下降.md",
-    "深度学习/神经网络结构/LeNet.md",
-    "深度学习/神经网络元素/激活函数.md",
     "Anaconda/Anaconda与pytorch的安装和配置环境.md",
     "深度学习/神经网络结构/LeNet/sigmoid函数.png",
     "深度学习/神经网络结构/LeNet/16个特征图.png",
@@ -203,7 +204,6 @@
     "深度学习/神经网络结构/VGG.md",
     "深度学习/神经网络结构/Unet.md",
     "深度学习/神经网络结构/ResNet.md",
-    "深度学习/神经网络结构/GoogleNet.md",
     "深度学习/神经网络元素/激活函数",
     "深度学习/神经网络元素/卷积层",
     "StudyNote/README.md",
