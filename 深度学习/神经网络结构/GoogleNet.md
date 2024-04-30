@@ -43,7 +43,7 @@
 ![80d77ee7085b4505aac57347585e14d3.png](https://cdn.nlark.com/yuque/0/2022/png/33630082/1666778164010-68d8dbc8-31bd-45c0-a75a-35bbfc39113e.png#averageHue=%23f6f3ef&clientId=ua8dfb534-11cc-4&from=drop&id=uc4ff29a6&originHeight=621&originWidth=949&originalType=binary&ratio=1&rotation=0&showTitle=false&size=62529&status=done&style=none&taskId=uf4a7f3ee-6520-405a-8cd3-c58c57a0935&title=)
 
 
-- 对比上面的 V 1 版本我们可以发现，2，3，4 通道都添加了 1*1 的[卷积层](../神经网络元素/卷积层.md)，这是为了减少参数。
+- 对比上面的 V 1 版本我们可以发现，2，3，4 通道都添加了 1\*1 的[卷积层](../神经网络元素/卷积层.md)，这是为了减少参数。
 
 
 

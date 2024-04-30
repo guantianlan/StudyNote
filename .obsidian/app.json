@@ -1,6 +1,6 @@
 {
   "promptDelete": true,
-  "attachmentFolderPath": "./GoogleNet",
+  "attachmentFolderPath": "./ResNet",
   "newFileLocation": "root",
   "alwaysUpdateLinks": true,
   "foldHeading": true,

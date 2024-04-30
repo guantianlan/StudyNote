@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "ResNet",
+      "path": "深度学习/神经网络结构/ResNet.md"
+    },
+    {
       "basename": "GoogleNet",
       "path": "深度学习/神经网络结构/GoogleNet.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Unet",
       "path": "深度学习/神经网络结构/Unet.md"
-    },
-    {
-      "basename": "ResNet",
-      "path": "深度学习/神经网络结构/ResNet.md"
     },
     {
       "basename": "LeNet",
