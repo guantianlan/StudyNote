@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "深度学习/神经网络元素/卷积层.md",
+                "file": "深度学习/神经网络结构/GoogleNet.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "深度学习/神经网络元素/卷积层.md"
+                "file": "深度学习/神经网络结构/GoogleNet.md"
               }
             }
           }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "深度学习/神经网络元素/卷积层.md",
+                "file": "深度学习/神经网络结构/GoogleNet.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "深度学习/神经网络元素/卷积层.md",
+                "file": "深度学习/神经网络结构/GoogleNet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,6 +188,7 @@
   },
   "active": "ccce0c215084b4ae",
   "lastOpenFiles": [
+    "深度学习/神经网络元素/卷积层.md",
     "深度学习/神经网络元素/池化层.md",
     "深度学习/神经网络结构/VGG.md",
     "深度学习/神经网络结构/Unet.md",
@@ -197,7 +198,6 @@
     "深度学习/神经网络元素/梯度下降.md",
     "深度学习/神经网络元素/转置卷积.md",
     "深度学习/神经网络元素/全连接层.md",
-    "深度学习/神经网络元素/卷积层.md",
     "深度学习/神经网络元素/激活函数.md",
     "数据库/Mysql数据库学习.md",
     "README.md",
