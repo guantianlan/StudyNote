@@ -1,5 +1,7 @@
 # 一个私用的学习资源库，持续更新
 
+> [深度学习在图像处理中的应用教程](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing)
+
 ## JAVA
 
 [Java 基础学习](Java/Java基础学习.md)
@@ -53,3 +55,5 @@
 [VGG](深度学习/神经网络结构/VGG.md)
 
 [YOLO](深度学习/神经网络结构/YOLO.md)
+
+

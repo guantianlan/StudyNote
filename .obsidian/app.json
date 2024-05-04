@@ -1,6 +1,6 @@
 {
   "promptDelete": true,
-  "attachmentFolderPath": "./ResNet",
+  "attachmentFolderPath": "./README",
   "newFileLocation": "root",
   "alwaysUpdateLinks": true,
   "foldHeading": true,
