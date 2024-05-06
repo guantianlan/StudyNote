@@ -1,4 +1,4 @@
--# 一个私用的学习资源库，持续更新
+# 一个私用的学习资源库，持续更新
 
 > [深度学习在图像处理中的应用教程](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing)
 
