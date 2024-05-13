@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "LeNet",
+      "path": "深度学习/神经网络结构/LeNet.md"
+    },
+    {
       "basename": "全连接层",
       "path": "深度学习/神经网络元素/全连接层.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "Unet",
       "path": "深度学习/神经网络结构/Unet.md"
-    },
-    {
-      "basename": "LeNet",
-      "path": "深度学习/神经网络结构/LeNet.md"
     },
     {
       "basename": "梯度下降",

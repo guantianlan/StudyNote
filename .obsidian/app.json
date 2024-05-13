@@ -1,6 +1,6 @@
 {
   "promptDelete": true,
-  "attachmentFolderPath": "./全连接层",
+  "attachmentFolderPath": "./LeNet",
   "newFileLocation": "root",
   "alwaysUpdateLinks": true,
   "foldHeading": true,
