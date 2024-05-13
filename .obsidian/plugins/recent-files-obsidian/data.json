@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "卷积层",
+      "path": "深度学习/神经网络元素/卷积层.md"
+    },
+    {
+      "basename": "池化层",
+      "path": "深度学习/神经网络元素/池化层.md"
+    },
+    {
       "basename": "LeNet",
       "path": "深度学习/神经网络结构/LeNet.md"
     },
@@ -13,10 +21,6 @@
       "path": "深度学习/神经网络元素/激活函数.md"
     },
     {
-      "basename": "池化层",
-      "path": "深度学习/神经网络元素/池化层.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "GoogleNet",
       "path": "深度学习/神经网络结构/GoogleNet.md"
-    },
-    {
-      "basename": "卷积层",
-      "path": "深度学习/神经网络元素/卷积层.md"
     },
     {
       "basename": "YOLO",
