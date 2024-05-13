@@ -1,6 +1,6 @@
 {
   "promptDelete": true,
-  "attachmentFolderPath": "./GoogleNet",
+  "attachmentFolderPath": "./梯度下降",
   "newFileLocation": "root",
   "alwaysUpdateLinks": true,
   "foldHeading": true,

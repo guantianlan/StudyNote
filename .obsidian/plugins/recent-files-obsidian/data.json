@@ -1,28 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "GoogleNet",
-      "path": "深度学习/神经网络结构/GoogleNet.md"
-    },
-    {
-      "basename": "卷积层",
-      "path": "深度学习/神经网络元素/卷积层.md"
-    },
-    {
-      "basename": "池化层",
-      "path": "深度学习/神经网络元素/池化层.md"
-    },
-    {
-      "basename": "LeNet",
-      "path": "深度学习/神经网络结构/LeNet.md"
+      "basename": "梯度下降",
+      "path": "深度学习/神经网络元素/梯度下降.md"
     },
     {
       "basename": "全连接层",
       "path": "深度学习/神经网络元素/全连接层.md"
     },
     {
+      "basename": "转置卷积",
+      "path": "深度学习/神经网络元素/转置卷积.md"
+    },
+    {
+      "basename": "卷积层",
+      "path": "深度学习/神经网络元素/卷积层.md"
+    },
+    {
       "basename": "激活函数",
       "path": "深度学习/神经网络元素/激活函数.md"
+    },
+    {
+      "basename": "池化层",
+      "path": "深度学习/神经网络元素/池化层.md"
+    },
+    {
+      "basename": "GoogleNet",
+      "path": "深度学习/神经网络结构/GoogleNet.md"
+    },
+    {
+      "basename": "LeNet",
+      "path": "深度学习/神经网络结构/LeNet.md"
     },
     {
       "basename": "README",
@@ -43,14 +51,6 @@
     {
       "basename": "Unet",
       "path": "深度学习/神经网络结构/Unet.md"
-    },
-    {
-      "basename": "梯度下降",
-      "path": "深度学习/神经网络元素/梯度下降.md"
-    },
-    {
-      "basename": "转置卷积",
-      "path": "深度学习/神经网络元素/转置卷积.md"
     },
     {
       "basename": "Mysql数据库学习",
