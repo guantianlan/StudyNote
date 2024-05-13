@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "GoogleNet",
+      "path": "深度学习/神经网络结构/GoogleNet.md"
+    },
+    {
       "basename": "卷积层",
       "path": "深度学习/神经网络元素/卷积层.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "ResNet",
       "path": "深度学习/神经网络结构/ResNet.md"
-    },
-    {
-      "basename": "GoogleNet",
-      "path": "深度学习/神经网络结构/GoogleNet.md"
     },
     {
       "basename": "YOLO",
