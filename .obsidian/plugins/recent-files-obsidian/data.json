@@ -5,20 +5,28 @@
       "path": "深度学习/神经网络元素/梯度下降.md"
     },
     {
-      "basename": "池化层",
-      "path": "深度学习/神经网络元素/池化层.md"
+      "basename": "转置卷积",
+      "path": "深度学习/神经网络元素/转置卷积.md"
     },
     {
-      "basename": "激活函数",
-      "path": "深度学习/神经网络元素/激活函数.md"
+      "basename": "随机种子",
+      "path": "深度学习/随机种子.md"
+    },
+    {
+      "basename": "卷积层",
+      "path": "深度学习/神经网络元素/卷积层.md"
     },
     {
       "basename": "全连接层",
       "path": "深度学习/神经网络元素/全连接层.md"
     },
     {
-      "basename": "卷积层",
-      "path": "深度学习/神经网络元素/卷积层.md"
+      "basename": "池化层",
+      "path": "深度学习/神经网络元素/池化层.md"
+    },
+    {
+      "basename": "激活函数",
+      "path": "深度学习/神经网络元素/激活函数.md"
     },
     {
       "basename": "YOLO",
@@ -41,10 +49,6 @@
       "path": "深度学习/神经网络结构/LeNet.md"
     },
     {
-      "basename": "转置卷积",
-      "path": "深度学习/神经网络元素/转置卷积.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
     },
@@ -59,10 +63,6 @@
     {
       "basename": "数据库链接",
       "path": "数据库/数据库链接.md"
-    },
-    {
-      "basename": "随机种子",
-      "path": "深度学习/随机种子.md"
     },
     {
       "basename": "Anaconda与pytorch的安装和配置环境",
