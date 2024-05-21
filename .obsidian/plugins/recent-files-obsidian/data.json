@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "卷积层",
+      "path": "深度学习/神经网络元素/卷积层.md"
+    },
+    {
+      "basename": "激活函数",
+      "path": "深度学习/神经网络元素/激活函数.md"
+    },
+    {
+      "basename": "池化层",
+      "path": "深度学习/神经网络元素/池化层.md"
+    },
+    {
       "basename": "YOLO",
       "path": "深度学习/神经网络结构/YOLO.md"
     },
@@ -31,18 +43,6 @@
     {
       "basename": "全连接层",
       "path": "深度学习/神经网络元素/全连接层.md"
-    },
-    {
-      "basename": "卷积层",
-      "path": "深度学习/神经网络元素/卷积层.md"
-    },
-    {
-      "basename": "激活函数",
-      "path": "深度学习/神经网络元素/激活函数.md"
-    },
-    {
-      "basename": "池化层",
-      "path": "深度学习/神经网络元素/池化层.md"
     },
     {
       "basename": "README",
