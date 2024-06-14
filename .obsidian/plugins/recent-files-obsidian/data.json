@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Mysql数据库学习",
+      "path": "数据库/Mysql数据库学习.md"
+    },
+    {
+      "basename": "数据库链接",
+      "path": "数据库/数据库链接.md"
+    },
+    {
       "basename": "梯度下降",
       "path": "深度学习/神经网络元素/梯度下降.md"
     },
@@ -55,14 +63,6 @@
     {
       "basename": "Unet",
       "path": "深度学习/神经网络结构/Unet.md"
-    },
-    {
-      "basename": "Mysql数据库学习",
-      "path": "数据库/Mysql数据库学习.md"
-    },
-    {
-      "basename": "数据库链接",
-      "path": "数据库/数据库链接.md"
     },
     {
       "basename": "Anaconda与pytorch的安装和配置环境",
