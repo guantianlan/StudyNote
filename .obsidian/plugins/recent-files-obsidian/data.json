@@ -5,6 +5,10 @@
       "path": "Java/Java基础学习.md"
     },
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Mysql数据库学习",
       "path": "数据库/Mysql数据库学习.md"
     },
@@ -59,10 +63,6 @@
     {
       "basename": "LeNet",
       "path": "深度学习/神经网络结构/LeNet.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "Unet",
