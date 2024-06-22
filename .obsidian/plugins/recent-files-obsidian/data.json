@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Java基础学习",
+      "path": "Java/Java基础学习.md"
+    },
+    {
       "basename": "Mysql数据库学习",
       "path": "数据库/Mysql数据库学习.md"
     },
@@ -87,10 +91,6 @@
     {
       "basename": "YOLOv8模型结构",
       "path": "深度学习/神经网络结构/YOLO/YOLOv8模型结构.jpg"
-    },
-    {
-      "basename": "Java基础学习",
-      "path": "Java/Java基础学习.md"
     },
     {
       "basename": "Static",
