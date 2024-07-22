@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Java基础学习.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/千兆以太网极限传输速度计算与分析.md"
+                "file": "README.md"
               }
             }
           }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/千兆以太网极限传输速度计算与分析.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/千兆以太网极限传输速度计算与分析.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,12 +199,12 @@
       "obsidian-file-cleaner:清理文件": false
     }
   },
-  "active": "22ac99da8a9c48b5",
+  "active": "ccce0c215084b4ae",
   "lastOpenFiles": [
-    "计算机网络",
     "Java/Java基础学习.md",
     "计算机网络/千兆以太网极限传输速度计算与分析.md",
     "README.md",
+    "计算机网络",
     "Java/Java基础学习/成员内部类运行结果.png",
     "Java/Java基础学习/如何使用内部类.jpg",
     "数据库/Mysql数据库学习.md",
@@ -246,7 +246,6 @@
     "Python/使用国内 pip 源.md",
     "Java/Java基础学习",
     "Anaconda/linux中Anaconda更换源",
-    "Anaconda/Anaconda与pytorch的安装和配置环境",
     "深度学习/未命名.canvas",
     "未命名.canvas"
   ]
