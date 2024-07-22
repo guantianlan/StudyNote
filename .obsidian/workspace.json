@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "千兆以太网极限传输速度计算与分析.md",
+                "file": "计算机网络/千兆以太网极限传输速度计算与分析.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "千兆以太网极限传输速度计算与分析.md"
+                "file": "计算机网络/千兆以太网极限传输速度计算与分析.md"
               }
             }
           }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "千兆以太网极限传输速度计算与分析.md",
+                "file": "计算机网络/千兆以太网极限传输速度计算与分析.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "千兆以太网极限传输速度计算与分析.md",
+                "file": "计算机网络/千兆以太网极限传输速度计算与分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,10 +199,11 @@
       "obsidian-file-cleaner:清理文件": false
     }
   },
-  "active": "08a778f3cd6fdae8",
+  "active": "22ac99da8a9c48b5",
   "lastOpenFiles": [
+    "计算机网络",
     "Java/Java基础学习.md",
-    "千兆以太网极限传输速度计算与分析.md",
+    "计算机网络/千兆以太网极限传输速度计算与分析.md",
     "README.md",
     "Java/Java基础学习/成员内部类运行结果.png",
     "Java/Java基础学习/如何使用内部类.jpg",
@@ -243,7 +244,6 @@
     "git",
     "StudyNote",
     "Python/使用国内 pip 源.md",
-    "Python/pip.md",
     "Java/Java基础学习",
     "Anaconda/linux中Anaconda更换源",
     "Anaconda/Anaconda与pytorch的安装和配置环境",
