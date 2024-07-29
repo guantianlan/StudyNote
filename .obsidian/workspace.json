@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "深度学习/神经网络结构/YOLO.md"
+                "file": "计算机网络/千兆以太网极限传输速度计算与分析 1.md"
               }
             }
           }
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "深度学习/神经网络结构/YOLO.md",
+                "file": "计算机网络/千兆以太网极限传输速度计算与分析 1.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "深度学习/神经网络结构/YOLO.md",
+                "file": "计算机网络/千兆以太网极限传输速度计算与分析 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,8 +225,9 @@
       "obsidian-file-cleaner:清理文件": false
     }
   },
-  "active": "22ac99da8a9c48b5",
+  "active": "22e42c60d10ffe05",
   "lastOpenFiles": [
+    "深度学习/神经网络结构/YOLO.md",
     "README.md",
     "计算机网络/千兆以太网极限传输速度计算与分析 1.md",
     "计算机网络/千兆以太网极限传输速度计算与分析.md",
@@ -243,7 +244,6 @@
     "深度学习/随机种子.md",
     "深度学习/神经网络元素/全连接层.md",
     "深度学习/神经网络元素/池化层.md",
-    "深度学习/神经网络结构/YOLO.md",
     "深度学习/神经网络结构/ResNet.md",
     "深度学习/神经网络结构/GoogleNet.md",
     "深度学习/神经网络结构/VGG.md",
