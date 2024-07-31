@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "计算机网络/计算机网络.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "计算机网络/计算机网络.md"
               }
             }
           }
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "计算机网络/计算机网络.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "计算机网络/计算机网络.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,8 +227,10 @@
   },
   "active": "89ff0397b224f97e",
   "lastOpenFiles": [
+    "计算机网络/计算机网络/1f0591759a21936ab7c9f983fca40a5.png",
+    "计算机网络/计算机网络",
     "深度学习/神经网络结构/YOLO.md",
-    "未命名.md",
+    "计算机网络/计算机网络.md",
     "README.md",
     "计算机网络/千兆以太网极限传输速度计算.md",
     "计算机网络/test.md",
@@ -267,12 +269,10 @@
     "StudyNote/README.md",
     "深度学习/神经网络结构/YOLO",
     "ground truth长度计算公式.png.md",
-    "git/git推送至GitHub.md",
     "git/git推送至GitHub",
     "git",
     "StudyNote",
     "Java/Java基础学习",
-    "Anaconda/linux中Anaconda更换源",
     "深度学习/未命名.canvas",
     "未命名.canvas"
   ]
