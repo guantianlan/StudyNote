@@ -39,32 +39,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e181ffb6d9a8690",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算机网络/千兆以太网极限传输速度计算.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89ff0397b224f97e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "计算机网络/计算机网络.md",
                 "mode": "source",
                 "backlinks": true,
@@ -73,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,7 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 264.5
   },
   "right": {
     "id": "8c5a5bdf8c19a10f",
@@ -225,19 +199,19 @@
       "obsidian-file-cleaner:清理文件": false
     }
   },
-  "active": "89ff0397b224f97e",
+  "active": "08a778f3cd6fdae8",
   "lastOpenFiles": [
+    "README.md",
+    "计算机网络/计算机网络.md",
+    "计算机网络/千兆以太网极限传输速度计算.md",
     "计算机网络/计算机网络/计算机网络的功能.png",
     "计算机网络/计算机网络/从逻辑功能看.png",
     "计算机网络/计算机网络/从工作方式来看-2.png",
     "计算机网络/计算机网络/计算机网络的概念.png",
     "计算机网络/计算机网络/从工作方式来看.png",
     "计算机网络/计算机网络/由组成部分来看.png",
-    "计算机网络/计算机网络.md",
     "计算机网络/计算机网络",
     "深度学习/神经网络结构/YOLO.md",
-    "README.md",
-    "计算机网络/千兆以太网极限传输速度计算.md",
     "计算机网络/test.md",
     "Java/Java基础学习.md",
     "计算机网络",
@@ -259,7 +233,6 @@
     "深度学习/神经网络结构/Unet.md",
     "数据库/Mysql数据库学习/SQL-DQL-分页查询.png",
     "数据库/Mysql数据库学习/SQL-DQL-排序查询.png",
-    "数据库/Mysql数据库学习/SQL-DQL-分组查询.png",
     "Anaconda/Anaconda与pytorch的安装和配置环境.md",
     "深度学习/神经网络结构/LeNet",
     "Anaconda/Docker中使用conda不能激活环境问题.md",
