@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/计算机网络.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/计算机网络.md"
+                "file": "README.md"
               }
             }
           }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/计算机网络.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/计算机网络.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,8 +201,8 @@
   },
   "active": "08a778f3cd6fdae8",
   "lastOpenFiles": [
-    "README.md",
     "计算机网络/计算机网络.md",
+    "README.md",
     "计算机网络/千兆以太网极限传输速度计算.md",
     "计算机网络/计算机网络/计算机网络的功能.png",
     "计算机网络/计算机网络/从逻辑功能看.png",
