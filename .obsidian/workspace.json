@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "89ff0397b224f97e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -154,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/千兆以太网极限传输速度计算.md"
+                "file": "未命名.md"
               }
             }
           }
@@ -171,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/千兆以太网极限传输速度计算.md",
+                "file": "未命名.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -188,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/千兆以太网极限传输速度计算.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,12 +225,13 @@
       "obsidian-file-cleaner:清理文件": false
     }
   },
-  "active": "22ac99da8a9c48b5",
+  "active": "89ff0397b224f97e",
   "lastOpenFiles": [
+    "深度学习/神经网络结构/YOLO.md",
+    "未命名.md",
     "README.md",
     "计算机网络/千兆以太网极限传输速度计算.md",
     "计算机网络/test.md",
-    "深度学习/神经网络结构/YOLO.md",
     "Java/Java基础学习.md",
     "计算机网络",
     "Java/Java基础学习/成员内部类运行结果.png",
@@ -257,7 +271,6 @@
     "git/git推送至GitHub",
     "git",
     "StudyNote",
-    "Python/使用国内 pip 源.md",
     "Java/Java基础学习",
     "Anaconda/linux中Anaconda更换源",
     "深度学习/未命名.canvas",
