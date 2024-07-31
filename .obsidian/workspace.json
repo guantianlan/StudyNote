@@ -225,8 +225,9 @@
       "obsidian-file-cleaner:清理文件": false
     }
   },
-  "active": "22ac99da8a9c48b5",
+  "active": "89ff0397b224f97e",
   "lastOpenFiles": [
+    "计算机网络/计算机网络/计算机网络的功能.png",
     "计算机网络/计算机网络/从逻辑功能看.png",
     "计算机网络/计算机网络/从工作方式来看-2.png",
     "计算机网络/计算机网络/计算机网络的概念.png",
@@ -260,7 +261,6 @@
     "数据库/Mysql数据库学习/SQL-DQL-排序查询.png",
     "数据库/Mysql数据库学习/SQL-DQL-分组查询.png",
     "Anaconda/Anaconda与pytorch的安装和配置环境.md",
-    "深度学习/神经网络结构/LeNet/sigmoid函数.png",
     "深度学习/神经网络结构/LeNet",
     "Anaconda/Docker中使用conda不能激活环境问题.md",
     "Anaconda/linux中Anaconda更换源.md",
