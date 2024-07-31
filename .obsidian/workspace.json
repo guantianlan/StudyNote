@@ -111,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 264.5,
+    "collapsed": true
   },
   "right": {
     "id": "8c5a5bdf8c19a10f",
@@ -186,7 +187,7 @@
       "obsidian-file-cleaner:清理文件": false
     }
   },
-  "active": "22ac99da8a9c48b5",
+  "active": "7169570394c1c1fb",
   "lastOpenFiles": [
     "计算机网络/计算机网络/分组交换技术.png",
     "深度学习/神经网络结构/YOLO.md",
