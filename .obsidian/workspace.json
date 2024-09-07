@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/计算机网络.md",
+                "file": "Java/配置Maven.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5,
-    "collapsed": true
+    "width": 264.5
   },
   "right": {
     "id": "8c5a5bdf8c19a10f",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/计算机网络.md"
+                "file": "Java/配置Maven.md"
               }
             }
           }
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/计算机网络.md",
+                "file": "Java/配置Maven.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/计算机网络.md",
+                "file": "Java/配置Maven.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,9 +188,10 @@
   },
   "active": "7169570394c1c1fb",
   "lastOpenFiles": [
+    "计算机网络/计算机网络.md",
+    "Java/配置Maven.md",
     "计算机网络/计算机网络/分组交换技术.png",
     "深度学习/神经网络结构/YOLO.md",
-    "计算机网络/计算机网络.md",
     "计算机网络/千兆以太网极限传输速度计算.md",
     "README.md",
     "计算机网络/计算机网络/计算机网络的功能.png",
@@ -221,7 +221,6 @@
     "深度学习/神经网络结构/LeNet.md",
     "深度学习/神经网络结构/Unet.md",
     "数据库/Mysql数据库学习/SQL-DQL-分页查询.png",
-    "数据库/Mysql数据库学习/SQL-DQL-排序查询.png",
     "Anaconda/Anaconda与pytorch的安装和配置环境.md",
     "深度学习/神经网络结构/LeNet",
     "Anaconda/Docker中使用conda不能激活环境问题.md",

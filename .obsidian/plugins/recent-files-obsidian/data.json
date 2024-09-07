@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "配置Maven",
+      "path": "Java/配置Maven.md"
+    },
+    {
       "basename": "计算机网络",
       "path": "计算机网络/计算机网络.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "conda默认使用的源",
       "path": "Anaconda/linux中Anaconda更换源/conda默认使用的源.png"
-    },
-    {
-      "basename": "Deconvolution(反卷积)",
-      "path": "深度学习/Deconvolution(转置卷积)/Deconvolution(反卷积).md"
     }
   ],
   "omittedPaths": [],
