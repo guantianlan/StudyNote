@@ -110,3 +110,28 @@
 | 运行`CMD.exe` ----> `mvn --version` --->出现 Maven 版本信息则表明成功。                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------ |
 | **配置完成，运行 `CMD.exe` ----> `mvn help:system` 测试，配置成功则本地仓库（D:\Programming\Apache\Maven\apache-maven-3.8.6\repository）中会出现一些文件。** |
+## **IDEA 配置 Maven**
+
+打开 IDEA 会出现开始页面，进行如下操作：
+
+```
+点击左侧的**`Customize`**------>在界面中找到**`All settings...`**。或者是打开的项目中点击**`File`---->`Settings`------>`Build，Execution，Deployment`----->`Build Tools`----->`Maven`**
+```
+
+![](配置Maven/IDEA配置Maven.png)
+
+>**Maven home path**：maven 的路径地址
+>**User setting file**：用户设置的文件地址
+>**local repository**：本地存储库地址
+
+**推荐配置：**设置 Maven 在不联网的情况下使用本地插件，一般使用 Maven 为我们提供好的骨架时，是需要联网的。
+
+配置这个，在没有网络的情况下，可以正常创建工程，并从之前已经使用过的工程中找到相应的骨架。
+
+**在`Settings`------>`Build，Execution，Deployment`----->`Build Tools`----->`Maven`---->`Runner`----->`VM Optiions`输入框中输入如下内容：**
+
+```
+-DarchetypeCatalog=internal
+```
+![](配置Maven/配置无网情况.png)
+
