@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "配置Maven",
-      "path": "Java/配置Maven.md"
+      "basename": "Maven下载",
+      "path": "Java/配置Maven/Maven下载.png"
+    },
+    {
+      "basename": "image-20240907135908941",
+      "path": "Java/配置Maven/image-20240907135908941.png"
     },
     {
       "basename": "计算机网络",
       "path": "计算机网络/计算机网络.md"
+    },
+    {
+      "basename": "配置Maven",
+      "path": "Java/配置Maven.md"
     },
     {
       "basename": "YOLO",
@@ -191,14 +199,6 @@
     {
       "basename": "2",
       "path": "深度学习/神经网络元素/转置卷积/2.png"
-    },
-    {
-      "basename": "1",
-      "path": "深度学习/神经网络元素/转置卷积/1.png"
-    },
-    {
-      "basename": "conda默认使用的源",
-      "path": "Anaconda/linux中Anaconda更换源/conda默认使用的源.png"
     }
   ],
   "omittedPaths": [],
