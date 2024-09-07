@@ -5,8 +5,16 @@
       "path": "Java/反射.md"
     },
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "配置Maven",
       "path": "Java/配置Maven.md"
+    },
+    {
+      "basename": "使用国内 pip 源",
+      "path": "Python/使用国内 pip 源.md"
     },
     {
       "basename": "MAVEN_HOME配置",
@@ -27,10 +35,6 @@
     {
       "basename": "千兆以太网极限传输速度计算",
       "path": "计算机网络/千兆以太网极限传输速度计算.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "从工作方式来看-2",
@@ -179,26 +183,6 @@
     {
       "basename": "再次查看conda源",
       "path": "Anaconda/linux中Anaconda更换源/再次查看conda源.png"
-    },
-    {
-      "basename": "编辑系统环境变量",
-      "path": "Anaconda/Anaconda与pytorch的安装和配置环境/编辑系统环境变量.png"
-    },
-    {
-      "basename": "数值数据类型",
-      "path": "数据库/Mysql数据库学习/数值数据类型.png"
-    },
-    {
-      "basename": "时间数据类型",
-      "path": "数据库/Mysql数据库学习/时间数据类型.png"
-    },
-    {
-      "basename": "torch.nn.ConvTranspose2d",
-      "path": "深度学习/神经网络元素/转置卷积/torch.nn.ConvTranspose2d.png"
-    },
-    {
-      "basename": "Convolution",
-      "path": "深度学习/神经网络元素/转置卷积/Convolution.png"
     }
   ],
   "omittedPaths": [],

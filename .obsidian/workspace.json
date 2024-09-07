@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d218548ef05b4a6d",
+        "id": "33e12a7dc311c013",
         "type": "tabs",
         "children": [
           {
-            "id": "7169570394c1c1fb",
+            "id": "ac7e4b0f91bdc2c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -97,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 200
   },
   "right": {
     "id": "8c5a5bdf8c19a10f",
@@ -172,9 +172,15 @@
       "obsidian-file-cleaner:清理文件": false
     }
   },
-  "active": "7169570394c1c1fb",
+  "active": "ac7e4b0f91bdc2c4",
   "lastOpenFiles": [
+    "README.md",
     "Java/配置Maven.md",
+    "2024-09-07.md",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "未命名 2.canvas",
+    "Python/使用国内 pip 源.md",
     "Java/反射.md",
     "Java/配置Maven/配置无网情况.png",
     "Java/配置Maven/IDEA配置Maven.png",
@@ -187,7 +193,6 @@
     "计算机网络/计算机网络/分组交换技术.png",
     "深度学习/神经网络结构/YOLO.md",
     "计算机网络/千兆以太网极限传输速度计算.md",
-    "README.md",
     "计算机网络/计算机网络/计算机网络的功能.png",
     "计算机网络/计算机网络/从逻辑功能看.png",
     "计算机网络/计算机网络/从工作方式来看-2.png",
@@ -211,16 +216,12 @@
     "深度学习/神经网络结构/Unet.md",
     "Anaconda/Anaconda与pytorch的安装和配置环境.md",
     "深度学习/神经网络结构/LeNet",
-    "Anaconda/Docker中使用conda不能激活环境问题.md",
-    "Anaconda/linux中Anaconda更换源.md",
     "深度学习/神经网络元素/激活函数",
     "深度学习/神经网络元素/卷积层",
-    "StudyNote/README.md",
     "深度学习/神经网络结构/YOLO",
     "git/git推送至GitHub",
     "git",
     "StudyNote",
-    "深度学习/未命名.canvas",
-    "未命名.canvas"
+    "深度学习/未命名.canvas"
   ]
 }

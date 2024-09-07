@@ -5,7 +5,8 @@
 ## JAVA
 
 [Java 基础学习](Java/Java基础学习.md)
-
+[配置Maven](Java/配置Maven.md)
+[反射](Java/反射.md)
 ## Anaconda
 
 [Anaconda 与 pytorch 的安装和配置环境](Anaconda/Anaconda与pytorch的安装和配置环境.md)
@@ -14,6 +15,9 @@
 
 [linux 中 Anaconda 更换源](Anaconda/linux中Anaconda更换源.md)
 
+## Python
+
+[使用国内 pip 源](Python/使用国内%20pip%20源.md)
 ## git
 
 [git 推送至 GitHub](git/git推送至GitHub.md)
