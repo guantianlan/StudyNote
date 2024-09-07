@@ -11,9 +11,12 @@
             "id": "7169570394c1c1fb",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Java/配置Maven/Maven下载.png"
+                "file": "Java/配置Maven.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -111,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/配置Maven/Maven下载.png"
+                "file": "Java/配置Maven.md"
               }
             }
           }
@@ -128,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/配置Maven/Maven下载.png",
+                "file": "Java/配置Maven.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -145,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/配置Maven/Maven下载.png",
+                "file": "Java/配置Maven.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,13 +172,14 @@
       "obsidian-file-cleaner:清理文件": false
     }
   },
-  "active": "7169570394c1c1fb",
+  "active": "22ac99da8a9c48b5",
   "lastOpenFiles": [
-    "Java/配置Maven/image-20240907135908941.png",
-    "计算机网络/计算机网络.md",
+    "Java/配置Maven/M2_HOME配置.png",
+    "Java/配置Maven/MAVEN_HOME配置.png",
     "Java/配置Maven.md",
-    "Java/配置Maven/image-20240907135912114.png",
     "Java/配置Maven/Maven下载.png",
+    "计算机网络/计算机网络.md",
+    "Java/配置Maven/image-20240907135912114.png",
     "Java/配置Maven",
     "计算机网络/计算机网络/分组交换技术.png",
     "深度学习/神经网络结构/YOLO.md",
