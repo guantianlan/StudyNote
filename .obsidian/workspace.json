@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/配置Maven.md",
+                "file": "Java/未命名.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/配置Maven.md"
+                "file": "Java/未命名.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/配置Maven.md",
+                "file": "Java/未命名.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/配置Maven.md",
+                "file": "Java/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,13 +172,14 @@
       "obsidian-file-cleaner:清理文件": false
     }
   },
-  "active": "22ac99da8a9c48b5",
+  "active": "7169570394c1c1fb",
   "lastOpenFiles": [
+    "Java/配置Maven.md",
+    "Java/未命名.md",
     "Java/配置Maven/配置无网情况.png",
     "Java/配置Maven/IDEA配置Maven.png",
     "Java/配置Maven/M2_HOME配置.png",
     "Java/配置Maven/MAVEN_HOME配置.png",
-    "Java/配置Maven.md",
     "Java/配置Maven/Maven下载.png",
     "计算机网络/计算机网络.md",
     "Java/配置Maven/image-20240907135912114.png",
@@ -190,7 +191,6 @@
     "计算机网络/计算机网络/计算机网络的功能.png",
     "计算机网络/计算机网络/从逻辑功能看.png",
     "计算机网络/计算机网络/从工作方式来看-2.png",
-    "计算机网络/计算机网络/计算机网络的概念.png",
     "计算机网络/计算机网络",
     "计算机网络/test.md",
     "Java/Java基础学习.md",

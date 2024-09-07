@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "Java/未命名.md"
+    },
+    {
       "basename": "配置Maven",
       "path": "Java/配置Maven.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Convolution",
       "path": "深度学习/神经网络元素/转置卷积/Convolution.png"
-    },
-    {
-      "basename": "2",
-      "path": "深度学习/神经网络元素/转置卷积/2.png"
     }
   ],
   "omittedPaths": [],
