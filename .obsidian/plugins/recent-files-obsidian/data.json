@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "WSL2 安装心得",
       "path": "操作系统/WSL2 安装心得.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "反射",
       "path": "Java/反射.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "配置Maven",

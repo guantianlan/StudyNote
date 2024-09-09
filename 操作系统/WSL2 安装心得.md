@@ -1,6 +1,7 @@
 # WSL2 安装心得
 
 
+>[全站最全Maven下载安装配置教学（2024更新...全版本）建议收藏...赠送IDEA配置Maven教程-CSDN博客](https://blog.csdn.net/MSDCP/article/details/127680844)
 
 WSL2是微软为Windows 10 和 Windows 11 提供的一个功能，它允许用户在 Windows 环境下运行 Linux 发行版，而不需要使用虚拟机或双启动。
 

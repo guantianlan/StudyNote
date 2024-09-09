@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/WSL2 安装心得.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/WSL2 安装心得.md"
+                "file": "README.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/WSL2 安装心得.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/WSL2 安装心得.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,12 +172,15 @@
       "obsidian-file-cleaner:清理文件": false
     }
   },
-  "active": "22ac99da8a9c48b5",
+  "active": "ac7e4b0f91bdc2c4",
   "lastOpenFiles": [
+    "操作系统/WSL2 安装心得.md",
+    "操作系统/WSL2 安装心得/WSL2 安装心得.md",
+    "操作系统/WSL2 安装心得",
+    "未命名",
     "Java/spring6.md",
     "未命名.md",
     "操作系统",
-    "操作系统/WSL2 安装心得.md",
     "Java/反射.md",
     "README.md",
     "Java/配置Maven.md",
@@ -220,8 +223,6 @@
     "深度学习/神经网络元素/激活函数",
     "深度学习/神经网络元素/卷积层",
     "深度学习/神经网络结构/YOLO",
-    "git/git推送至GitHub",
-    "git",
     "深度学习/未命名.canvas"
   ]
 }

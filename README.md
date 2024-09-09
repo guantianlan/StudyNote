@@ -2,6 +2,9 @@
 
 > [深度学习在图像处理中的应用教程](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing)
 
+## 操作系统
+
+[WSL2 安装心得](操作系统/WSL2%20安装心得.md)
 ## JAVA
 
 [Java 基础学习](Java/Java基础学习.md)
