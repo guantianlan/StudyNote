@@ -1,6 +1,6 @@
 {
   "promptDelete": true,
-  "attachmentFolderPath": "./README",
+  "attachmentFolderPath": "./Ubuntu安装docker并使用jupyter",
   "newFileLocation": "root",
   "alwaysUpdateLinks": true,
   "foldHeading": true,

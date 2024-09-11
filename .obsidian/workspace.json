@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2b8086ebc8875095",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "操作系统/Ubuntu安装docker并使用jupyter.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "操作系统/Ubuntu安装docker并使用jupyter.md"
               }
             }
           }
@@ -131,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "操作系统/Ubuntu安装docker并使用jupyter.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -148,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "操作系统/Ubuntu安装docker并使用jupyter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,9 +186,10 @@
       "obsidian-file-cleaner:清理文件": false
     }
   },
-  "active": "ac7e4b0f91bdc2c4",
+  "active": "2b8086ebc8875095",
   "lastOpenFiles": [
     "操作系统/WSL2 安装心得.md",
+    "操作系统/Ubuntu安装docker并使用jupyter.md",
     "操作系统/WSL2 安装心得/WSL2 安装心得.md",
     "操作系统/WSL2 安装心得",
     "未命名",
@@ -218,7 +233,6 @@
     "深度学习/神经网络元素/池化层.md",
     "深度学习/神经网络结构/ResNet.md",
     "深度学习/神经网络结构/GoogleNet.md",
-    "深度学习/神经网络结构/VGG.md",
     "深度学习/神经网络结构/LeNet",
     "深度学习/神经网络元素/激活函数",
     "深度学习/神经网络元素/卷积层",

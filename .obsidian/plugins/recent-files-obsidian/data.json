@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "Ubuntu安装docker并使用jupyter",
+      "path": "操作系统/Ubuntu安装docker并使用jupyter.md"
     },
     {
       "basename": "WSL2 安装心得",
       "path": "操作系统/WSL2 安装心得.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "spring6",
