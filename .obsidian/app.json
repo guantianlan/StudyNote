@@ -1,6 +1,6 @@
 {
   "promptDelete": true,
-  "attachmentFolderPath": "./Ubuntu安装docker并使用jupyter",
+  "attachmentFolderPath": "./docker安装mysql8.0.20并开启远程连接",
   "newFileLocation": "root",
   "alwaysUpdateLinks": true,
   "foldHeading": true,
