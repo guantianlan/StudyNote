@@ -6,15 +6,15 @@
     },
     {
       "basename": "docker安装mysql8.0.20并开启远程连接",
-      "path": "操作系统/docker安装mysql8.0.20并开启远程连接.md"
+      "path": "Linux/docker安装mysql8.0.20并开启远程连接.md"
     },
     {
       "basename": "Ubuntu安装docker并使用jupyter",
-      "path": "操作系统/Ubuntu安装docker并使用jupyter.md"
+      "path": "Linux/Ubuntu安装docker并使用jupyter.md"
     },
     {
       "basename": "WSL2 安装心得",
-      "path": "操作系统/WSL2 安装心得.md"
+      "path": "Linux/WSL2 安装心得.md"
     },
     {
       "basename": "spring6",

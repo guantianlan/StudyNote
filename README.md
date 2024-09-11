@@ -2,13 +2,13 @@
 
 > [深度学习在图像处理中的应用教程](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing)
 
-## 操作系统
+## Linux
 
-[WSL2 安装心得](操作系统/WSL2%20安装心得.md)
+[WSL2 安装心得](Linux/WSL2%20安装心得.md)
 
-[Ubuntu安装docker并使用jupyter](操作系统/Ubuntu安装docker并使用jupyter.md)
+[Ubuntu安装docker并使用jupyter](Linux/Ubuntu安装docker并使用jupyter.md)
 
-[docker安装mysql8.0.20并开启远程连接](操作系统/docker安装mysql8.0.20并开启远程连接.md)
+[docker安装mysql8.0.20并开启远程连接](Linux/docker安装mysql8.0.20并开启远程连接.md)
 
 ## JAVA
 

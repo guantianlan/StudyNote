@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/Ubuntu安装docker并使用jupyter.md",
+                "file": "Linux/Ubuntu安装docker并使用jupyter.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/docker安装mysql8.0.20并开启远程连接.md",
+                "file": "Linux/docker安装mysql8.0.20并开启远程连接.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -200,16 +200,16 @@
   },
   "active": "ac7e4b0f91bdc2c4",
   "lastOpenFiles": [
-    "操作系统/docker安装mysql8.0.20并开启远程连接.md",
-    "操作系统/Ubuntu安装docker并使用jupyter.md",
-    "操作系统/WSL2 安装心得.md",
+    "Linux/docker安装mysql8.0.20并开启远程连接.md",
+    "README.md",
+    "Linux/Ubuntu安装docker并使用jupyter.md",
+    "Linux/WSL2 安装心得.md",
     "操作系统/WSL2 安装心得/WSL2 安装心得.md",
     "操作系统/WSL2 安装心得",
     "操作系统/docker安装mysql8.0.20并开启远程连接",
     "Java/spring6.md",
-    "操作系统",
+    "Linux",
     "Java/反射.md",
-    "README.md",
     "Java/配置Maven.md",
     "2024-09-07.md",
     "未命名.canvas",
