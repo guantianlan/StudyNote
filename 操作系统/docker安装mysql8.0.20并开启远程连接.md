@@ -48,14 +48,14 @@ docker run \
 
 # 修改配置文件
 
-进入 /root/mysql8.0.20 文件，编辑 my.cnf, 在 `[mysqld]` 增加一行 `skip_grant_tables` 此时 mysql 是无密码状态
+进入 /root/mysql 文件，编辑 my.cnf, 在 `[mysqld]` 增加一行 `skip_grant_tables` 此时 mysql 是无密码状态
 
 重启容器
 ```bash
 docker restart mysql
 ```
 
-## 再次进入容器
+# 再次进入容器
 
 参考上述登录，再次输入 `mysql -uroot -p` 连按两次回车可登录成功显示如下：
 
@@ -122,4 +122,32 @@ ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '123456';
  update user set host='%' where user='root';
 ```
 
-# ## 确认是否更改
+# 确认是否更改
+
+```sql
+select host,user,plugin from user;
+```
+
+返回：
+```sql
++-----------+------------------+-----------------------+  
+| host | user | plugin |  
++-----------+------------------+-----------------------+  
+| % | root | mysql_native_password |  
+| localhost | mysql.infoschema | caching_sha2_password |  
+| localhost | mysql.session | caching_sha2_password |  
+| localhost | mysql.sys | caching_sha2_password |  
++-----------+------------------+-----------------------+
+```
+
+可以看到，用户 root 已经修改完成了
+
+刷新权限：
+
+```sql
+flush privileges;
+```
+
+# 再次修改配置文件
+
+进入 /root/mysql 文件，编辑 my. cnf, 删除之前添加的 `skip_grant_tables`

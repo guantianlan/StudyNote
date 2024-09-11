@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/docker安装mysql8.0.20并开启远程连接.md"
+                "file": "README.md"
               }
             }
           }
@@ -158,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/docker安装mysql8.0.20并开启远程连接.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/docker安装mysql8.0.20并开启远程连接.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,10 +198,10 @@
       "obsidian-file-cleaner:清理文件": false
     }
   },
-  "active": "a5a6c3490f9d671b",
+  "active": "ac7e4b0f91bdc2c4",
   "lastOpenFiles": [
-    "操作系统/Ubuntu安装docker并使用jupyter.md",
     "操作系统/docker安装mysql8.0.20并开启远程连接.md",
+    "操作系统/Ubuntu安装docker并使用jupyter.md",
     "操作系统/WSL2 安装心得.md",
     "操作系统/WSL2 安装心得/WSL2 安装心得.md",
     "操作系统/WSL2 安装心得",

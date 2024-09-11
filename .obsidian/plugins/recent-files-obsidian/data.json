@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "docker安装mysql8.0.20并开启远程连接",
       "path": "操作系统/docker安装mysql8.0.20并开启远程连接.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "WSL2 安装心得",
       "path": "操作系统/WSL2 安装心得.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "spring6",
