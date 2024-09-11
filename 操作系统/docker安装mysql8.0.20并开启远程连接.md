@@ -33,7 +33,7 @@ docker stop mysql && docker rm mysql
 ```bash
 docker run \
  -p 3306:3306 \ 
---name mysql8 \
+ --name mysql \
  --privileged=true \
  --restart unless-stopped \
  -v /root/mysql/mysql:/etc/mysql \
@@ -50,4 +50,76 @@ docker run \
 
 进入 /root/mysql8.0.20 文件，编辑 my.cnf, 在 `[mysqld]` 增加一行 `skip_grant_tables` 此时 mysql 是无密码状态
 
+重启容器
+```bash
 docker restart mysql
+```
+
+## 再次进入容器
+
+参考上述登录，再次输入 `mysql -uroot -p` 连按两次回车可登录成功显示如下：
+
+```bash
+root@15006e4d70b3:/# mysql -uroot -p  
+Enter password:  
+Welcome to the MySQL monitor. Commands end with ; or \g.  
+Your MySQL connection id is 8  
+Server version: 8.0.20 MySQL Community Server - GPL
+
+Copyright (c) 2000, 2020, Oracle and/or its affiliates. All rights reserved.
+
+Oracle is a registered trademark of Oracle Corporation and/or its  
+affiliates. Other names may be trademarks of their respective  
+owners.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+```
+
+# 进入容器
+输入 `use mysql`
+
+```sql
+mysql> use mysql  
+Reading table information for completion of table and column names  
+You can turn off this feature to get a quicker startup with -A
+
+Database changed
+```
+
+# 查看用户表
+
+输入
+```sql
+select user,host,plugin from user
+```
+
+显示：
+```sql
++-----------+------------------+-----------------------+  
+| host | user | plugin |  
++-----------+------------------+-----------------------+  
+| localhost | mysql.infoschema | caching_sha2_password |  
+| localhost | mysql.session | caching_sha2_password |  
+| localhost | mysql.sys | caching_sha2_password |  
+| localhost | root | caching_sha2_password |  
++-----------+------------------+-----------------------+  
+4 rows in set (0.01 sec)
+```
+
+因为 caching_sha2_password ，所以使用密码登录是不行的，需要修改
+
+# 修改 plugin 和远程连接
+
+修改plugin
+
+```sql
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '123456';
+```
+
+修改远程连接：
+
+```sql
+ update user set host='%' where user='root';
+```
+
+# ## 确认是否更改
