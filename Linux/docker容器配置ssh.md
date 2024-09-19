@@ -25,3 +25,59 @@ apt-get install openssh-server
 
 - 设置一个 root 密码，后面登陆会用到，根据自己的情况设置一个密码。
 
+```bash
+passwd
+```
+
+```bash
+vim /etc/ssh/sshd_config
+```
+
+注释这一行**PermitRootLogin prohibit-password**  
+添加一行**PermitRootLogin yes**
+
+```bash
+#PermitRootLogin prohibit-password
+PermitRootLogin yes
+```
+
+- 重启 ssh 服务
+
+```bash
+/etc/init.d/ssh restart
+```
+
+配置 ssh 自启动
+
+在 /root 目录下新建一个 start_ssh.sh文件，并给予该文件可执行权限。
+
+```bash
+touch /root/start_ssh.sh
+chmod +x /root/start_ssh.sh
+vim /root/start_ssh.sh
+```
+
+编辑 start_ssh. sh
+
+```bash
+#!/bin/bash
+
+LOGTIME=$(date "+%Y-%m-%d %H:%M:%S")
+echo "[$LOGTIME] startup run..." >>/root/start_ssh.log
+service ssh start >>/root/start_ssh.log
+#service mysql start >>/root/star_mysql.log   //其他服务也可这么实现
+```
+
+将start_ssh.sh脚本添加到启动文件中
+```bash
+vim /root/.bashrc
+```
+
+在 .bashrc 文件末尾加入如下内容：
+
+```bash
+# startup run
+if [ -f /root/start_ssh.sh ]; then
+      ./root/start_ssh.sh
+fi
+```
