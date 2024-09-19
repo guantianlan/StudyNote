@@ -1,6 +1,6 @@
 {
   "promptDelete": true,
-  "attachmentFolderPath": "./docker配置ssh",
+  "attachmentFolderPath": "./docker容器配置ssh",
   "newFileLocation": "root",
   "alwaysUpdateLinks": true,
   "foldHeading": true,
