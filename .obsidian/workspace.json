@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Linux/Ubuntu安装docker并使用jupyter.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Linux/Ubuntu安装docker并使用jupyter.md"
               }
             }
           }
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Linux/Ubuntu安装docker并使用jupyter.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Linux/Ubuntu安装docker并使用jupyter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,8 +200,8 @@
   },
   "active": "ac7e4b0f91bdc2c4",
   "lastOpenFiles": [
-    "Linux/docker安装mysql8.0.20并开启远程连接.md",
     "README.md",
+    "Linux/docker安装mysql8.0.20并开启远程连接.md",
     "Linux/Ubuntu安装docker并使用jupyter.md",
     "Linux/WSL2 安装心得.md",
     "操作系统/WSL2 安装心得/WSL2 安装心得.md",
