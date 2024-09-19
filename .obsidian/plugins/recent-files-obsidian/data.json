@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Ubuntu安装docker并使用jupyter",
-      "path": "Linux/Ubuntu安装docker并使用jupyter.md"
+      "basename": "docker配置ssh",
+      "path": "Linux/docker配置ssh.md"
     },
     {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "Ubuntu安装docker并使用jupyter",
+      "path": "Linux/Ubuntu安装docker并使用jupyter.md"
     },
     {
       "basename": "docker安装mysql8.0.20并开启远程连接",
@@ -195,10 +199,6 @@
     {
       "basename": "SQL-DML-删除数据",
       "path": "数据库/Mysql数据库学习/SQL-DML-删除数据.png"
-    },
-    {
-      "basename": "再次查看conda源",
-      "path": "Anaconda/linux中Anaconda更换源/再次查看conda源.png"
     }
   ],
   "omittedPaths": [],
