@@ -11,6 +11,9 @@
 [docker安装mysql8.0.20并开启远程连接](Linux/docker安装mysql8.0.20并开启远程连接.md)
 
 [docker容器配置ssh](Linux/docker容器配置ssh.md)
+
+[docker容器中部署wxWidgets](Linux/docker容器中部署wxWidgets.md)
+
 ## JAVA
 
 [Java 基础学习](Java/Java基础学习.md)

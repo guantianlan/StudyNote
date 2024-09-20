@@ -1,3 +1,5 @@
+> 前提要求，window 端需要安装 x11
+
 连接 docker 容器后输入下行指令安装 wxWidgets
 
 ```bash
@@ -91,4 +93,9 @@ void MyFrame::OnHello(wxCommandEvent& event)
 g++ hello_world.cpp `wx-config --cxxflags --libs` -o hello_world
 ```
 
-运行编译后的
+运行编译后的文件
+
+```bash
+./hello_world
+```
+
