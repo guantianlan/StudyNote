@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/docker容器中部署wxWidgets.md",
+                "file": "Linux/docker容器配置ssh.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/docker容器中部署wxWidgets.md"
+                "file": "Linux/docker容器配置ssh.md"
               }
             }
           }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/docker容器中部署wxWidgets.md",
+                "file": "Linux/docker容器配置ssh.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/docker容器中部署wxWidgets.md",
+                "file": "Linux/docker容器配置ssh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,9 +214,9 @@
   },
   "active": "2b8086ebc8875095",
   "lastOpenFiles": [
+    "Linux/docker容器中部署wxWidgets.md",
     "Linux/Ubuntu安装docker并使用jupyter.md",
     "README.md",
-    "Linux/docker容器中部署wxWidgets.md",
     "Linux/docker容器配置ssh.md",
     "Linux/WSL2 安装心得.md",
     "Linux/docker安装mysql8.0.20并开启远程连接.md",
