@@ -137,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8c5a5bdf8c19a10f",
@@ -215,12 +214,12 @@
   },
   "active": "a5a6c3490f9d671b",
   "lastOpenFiles": [
-    "Linux/docker容器配置ssh.md",
+    "Linux/WSL2 安装心得.md",
+    "README.md",
     "Linux/docker容器中部署wxWidgets.md",
+    "Linux/docker容器配置ssh.md",
     "Linux/docker安装mysql8.0.20并开启远程连接.md",
     "Linux/Ubuntu安装docker并使用jupyter.md",
-    "README.md",
-    "Linux/WSL2 安装心得.md",
     "操作系统/WSL2 安装心得/WSL2 安装心得.md",
     "操作系统/WSL2 安装心得",
     "操作系统/docker安装mysql8.0.20并开启远程连接",
