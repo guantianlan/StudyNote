@@ -1,6 +1,6 @@
 {
   "promptDelete": true,
-  "attachmentFolderPath": "./docker容器配置ssh",
+  "attachmentFolderPath": "./docker容器中部署wxWidgets",
   "newFileLocation": "root",
   "alwaysUpdateLinks": true,
   "foldHeading": true,

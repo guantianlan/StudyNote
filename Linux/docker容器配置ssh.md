@@ -9,6 +9,12 @@ docker run -itd --name pytorch-container -p 2222:22 -p 8888:8888 -v /opt/wxWidge
 
 这里主要是添加了 `-p 2222:22` 为 ssh 提供端口
 
+进入 docker 容器
+
+```bash
+docker exec -it pytorch-container bash
+```
+
 # 安装 ssh
 
 考虑到有些镜像没有 vim，这里先安装vim
@@ -78,6 +84,6 @@ vim /root/.bashrc
 ```bash
 # startup run
 if [ -f /root/start_ssh.sh ]; then
-      ./root/start_ssh.sh
+      /root/start_ssh.sh
 fi
 ```
