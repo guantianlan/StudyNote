@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "docker容器中部署wxWidgets",
+      "path": "docker容器中部署wxWidgets.md"
+    },
+    {
       "basename": "docker容器配置ssh",
       "path": "Linux/docker容器配置ssh.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "SQL-DDL-表操作-创建",
       "path": "数据库/Mysql数据库学习/SQL-DDL-表操作-创建.png"
-    },
-    {
-      "basename": "SQL-DML-删除数据",
-      "path": "数据库/Mysql数据库学习/SQL-DML-删除数据.png"
     }
   ],
   "omittedPaths": [],
