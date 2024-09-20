@@ -678,3 +678,22 @@ public:
 
 wxIMPLEMENT_APP(MyApp);>)
 ```
+
+创建 csv 文件
+
+```bash
+vim test.csv
+```
+
+```bash
+Process1,10.5,3.2
+
+Process2,7.8,2.5
+
+Process3,12.3,4.1
+
+Process4,9.6,3.8
+
+Process5,6.9,2.0
+```
+
