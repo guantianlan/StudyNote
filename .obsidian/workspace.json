@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Ubuntu安装docker并使用jupyter.md",
+                "file": "Linux/docker容器配置ssh.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Ubuntu安装docker并使用jupyter.md"
+                "file": "Linux/docker容器配置ssh.md"
               }
             }
           }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Ubuntu安装docker并使用jupyter.md",
+                "file": "Linux/docker容器配置ssh.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Ubuntu安装docker并使用jupyter.md",
+                "file": "Linux/docker容器配置ssh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,8 +214,8 @@
   },
   "active": "a5a6c3490f9d671b",
   "lastOpenFiles": [
-    "Linux/docker容器配置ssh.md",
     "Linux/Ubuntu安装docker并使用jupyter.md",
+    "Linux/docker容器配置ssh.md",
     "Linux/docker容器中部署wxWidgets.md",
     "Linux/WSL2 安装心得.md",
     "README.md",
