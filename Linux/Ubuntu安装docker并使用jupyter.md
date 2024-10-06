@@ -44,7 +44,7 @@ docker pull summit4you/pytorch:1.8.2-cpu-wx-lts
 例如：
 
 ```bash
-docker run -itd --name pytorch-container -p 8888:8888 -v /opt/pytorch-container:/workdir -w /workdir summit4you/pytorch:1.8.2-cpu-wx-lts sh -c "tmux new -s mysession && jupyter notebook --ip=0.0.0.0 --no-browser"
+docker run -itd --name pytorch-container --restart=always -p 8888:8888 -v /opt/pytorch-container:/workdir -w /workdir summit4you/pytorch:1.8.2-cpu-wx-lts sh -c "tmux new -s mysession && jupyter notebook --ip=0.0.0.0 --no-browser"
 ```
 
 如果需要添加 ssh 请看请看另一份文档 [docker容器配置ssh](docker容器配置ssh.md)
