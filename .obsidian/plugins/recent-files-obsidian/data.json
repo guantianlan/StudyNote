@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Ubuntu安装docker并使用jupyter",
+      "path": "Linux/Ubuntu安装docker并使用jupyter.md"
+    },
+    {
       "basename": "docker容器配置ssh",
       "path": "Linux/docker容器配置ssh.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "docker安装mysql8.0.20并开启远程连接",
       "path": "Linux/docker安装mysql8.0.20并开启远程连接.md"
-    },
-    {
-      "basename": "Ubuntu安装docker并使用jupyter",
-      "path": "Linux/Ubuntu安装docker并使用jupyter.md"
     },
     {
       "basename": "spring6",

@@ -1,6 +1,6 @@
 {
   "promptDelete": true,
-  "attachmentFolderPath": "./docker容器配置ssh",
+  "attachmentFolderPath": "./Ubuntu安装docker并使用jupyter",
   "newFileLocation": "root",
   "alwaysUpdateLinks": true,
   "foldHeading": true,
