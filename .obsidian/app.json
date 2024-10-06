@@ -1,6 +1,6 @@
 {
   "promptDelete": true,
-  "attachmentFolderPath": "./Ubuntu安装docker并使用jupyter",
+  "attachmentFolderPath": "./docker容器中部署wxWidgets",
   "newFileLocation": "root",
   "alwaysUpdateLinks": true,
   "foldHeading": true,

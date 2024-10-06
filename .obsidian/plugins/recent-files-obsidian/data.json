@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Ubuntu安装docker并使用jupyter",
-      "path": "Linux/Ubuntu安装docker并使用jupyter.md"
+      "basename": "docker容器中部署wxWidgets",
+      "path": "Linux/docker容器中部署wxWidgets.md"
     },
     {
       "basename": "docker容器配置ssh",
       "path": "Linux/docker容器配置ssh.md"
     },
     {
-      "basename": "docker容器中部署wxWidgets",
-      "path": "Linux/docker容器中部署wxWidgets.md"
+      "basename": "Ubuntu安装docker并使用jupyter",
+      "path": "Linux/Ubuntu安装docker并使用jupyter.md"
     },
     {
       "basename": "WSL2 安装心得",
