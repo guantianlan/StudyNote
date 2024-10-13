@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "Python/未命名.md"
+    },
+    {
       "basename": "docker容器配置ssh",
       "path": "Linux/docker容器配置ssh.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "SQL-DDL表操作-查询",
       "path": "数据库/Mysql数据库学习/SQL-DDL表操作-查询.png"
-    },
-    {
-      "basename": "SQL-DDL-表操作-创建",
-      "path": "数据库/Mysql数据库学习/SQL-DDL-表操作-创建.png"
     }
   ],
   "omittedPaths": [],
