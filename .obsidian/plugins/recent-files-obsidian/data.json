@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "第二课堂学分认证",
+      "path": "Python/第二课堂学分认证.md"
+    },
+    {
+      "basename": "使用国内 pip 源",
+      "path": "Python/使用国内 pip 源.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "计算机网络",
       "path": "计算机网络/计算机网络.md"
     },
     {
       "basename": "千兆以太网极限传输速度计算",
       "path": "计算机网络/千兆以太网极限传输速度计算.md"
-    },
-    {
-      "basename": "第二课堂学分认证",
-      "path": "Python/第二课堂学分认证.md"
     },
     {
       "basename": "docker容器配置ssh",
@@ -29,10 +37,6 @@
       "path": "Linux/docker安装mysql8.0.20并开启远程连接.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "WSL2 安装心得",
       "path": "Linux/WSL2 安装心得.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "配置Maven",
       "path": "Java/配置Maven.md"
-    },
-    {
-      "basename": "使用国内 pip 源",
-      "path": "Python/使用国内 pip 源.md"
     },
     {
       "basename": "MAVEN_HOME配置",
@@ -191,14 +191,6 @@
     {
       "basename": "SQL-DQL-基本查询",
       "path": "数据库/Mysql数据库学习/SQL-DQL-基本查询.png"
-    },
-    {
-      "basename": "SQL-DDL-数据库操作",
-      "path": "数据库/Mysql数据库学习/SQL-DDL-数据库操作.png"
-    },
-    {
-      "basename": "SQL-DDL表操作-查询",
-      "path": "数据库/Mysql数据库学习/SQL-DDL表操作-查询.png"
     }
   ],
   "omittedPaths": [],
