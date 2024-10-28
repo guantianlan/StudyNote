@@ -3,7 +3,7 @@
 连接 docker 容器后输入下行指令安装 wxWidgets
 
 ```bash
-apt install libwxgtk3.2-dev cmake g++
+apt install libwxgtk3.2-gtk3-dev
 ```
 
 创建 helloworld. cpp
