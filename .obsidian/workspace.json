@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/docker容器配置ssh.md",
+                "file": "Linux/docker容器中部署wxWidgets.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "docker容器配置ssh"
+              "title": "docker容器中部署wxWidgets"
             }
           },
           {
@@ -187,10 +187,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/docker容器配置ssh.md"
+                "file": "Linux/docker容器中部署wxWidgets.md"
               },
               "icon": "lucide-list",
-              "title": "docker容器配置ssh 的大纲"
+              "title": "docker容器中部署wxWidgets 的大纲"
             }
           }
         ]
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/docker容器配置ssh.md",
+                "file": "Linux/docker容器中部署wxWidgets.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "docker容器配置ssh 的反向链接列表"
+              "title": "docker容器中部署wxWidgets 的反向链接列表"
             }
           },
           {
@@ -253,18 +253,18 @@
   },
   "active": "6285dff008e3ecc1",
   "lastOpenFiles": [
+    "Linux/docker安装mysql8.0.20并开启远程连接.md",
+    "Linux/WSL2 安装心得.md",
+    "Linux/docker容器配置ssh.md",
     "Linux/docker容器中部署wxWidgets.md",
     "README.md",
-    "Linux/docker安装mysql8.0.20并开启远程连接.md",
     "Python/第二课堂学分认证.md",
     "Python/使用国内 pip 源.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "计算机网络/计算机网络.md",
     "计算机网络/千兆以太网极限传输速度计算.md",
-    "Linux/docker容器配置ssh.md",
     "Linux/Ubuntu安装docker并使用jupyter.md",
-    "Linux/WSL2 安装心得.md",
     "操作系统/WSL2 安装心得/WSL2 安装心得.md",
     "操作系统/WSL2 安装心得",
     "操作系统/docker安装mysql8.0.20并开启远程连接",
