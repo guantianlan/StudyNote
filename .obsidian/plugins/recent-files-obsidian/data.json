@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "docker容器中部署wxWidgets",
+      "path": "Linux/docker容器中部署wxWidgets.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "docker安装mysql8.0.20并开启远程连接",
+      "path": "Linux/docker安装mysql8.0.20并开启远程连接.md"
+    },
+    {
       "basename": "第二课堂学分认证",
       "path": "Python/第二课堂学分认证.md"
     },
     {
       "basename": "使用国内 pip 源",
       "path": "Python/使用国内 pip 源.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "计算机网络",
@@ -25,16 +33,8 @@
       "path": "Linux/docker容器配置ssh.md"
     },
     {
-      "basename": "docker容器中部署wxWidgets",
-      "path": "Linux/docker容器中部署wxWidgets.md"
-    },
-    {
       "basename": "Ubuntu安装docker并使用jupyter",
       "path": "Linux/Ubuntu安装docker并使用jupyter.md"
-    },
-    {
-      "basename": "docker安装mysql8.0.20并开启远程连接",
-      "path": "Linux/docker安装mysql8.0.20并开启远程连接.md"
     },
     {
       "basename": "WSL2 安装心得",
