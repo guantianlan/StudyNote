@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "使用国内 pip 源",
+      "path": "Python/使用国内 pip 源.md"
+    },
+    {
       "basename": "docker容器中部署wxWidgets",
       "path": "Linux/docker容器中部署wxWidgets.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "第二课堂学分认证",
       "path": "Python/第二课堂学分认证.md"
-    },
-    {
-      "basename": "使用国内 pip 源",
-      "path": "Python/使用国内 pip 源.md"
     },
     {
       "basename": "计算机网络",

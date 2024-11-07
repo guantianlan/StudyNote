@@ -1,6 +1,6 @@
 {
   "promptDelete": true,
-  "attachmentFolderPath": "./docker容器中部署wxWidgets",
+  "attachmentFolderPath": "./使用国内 pip 源",
   "newFileLocation": "root",
   "alwaysUpdateLinks": true,
   "foldHeading": true,
