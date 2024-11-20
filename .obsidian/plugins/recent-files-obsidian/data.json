@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "未命名",
-      "path": "未命名.md"
+      "basename": "kaggle",
+      "path": "kaggle.md"
+    },
+    {
+      "basename": "EfficientNet",
+      "path": "深度学习/神经网络结构/EfficientNet.md"
     },
     {
       "basename": "使用国内 pip 源",
