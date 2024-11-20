@@ -7,3 +7,5 @@
 
 [RSNA Screening Mammography Breast Cancer Detection | Kaggle](https://www.kaggle.com/competitions/rsna-breast-cancer-detection/data)
 
+# 三、识别医疗执照考试患者记录中的关键短语
+[NBME - Score Clinical Patient Notes | Kaggle](https://www.kaggle.com/competitions/nbme-score-clinical-patient-notes/data)
