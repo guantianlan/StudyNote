@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kaggle.md",
+                "file": "kaggle/kaggle可用比赛.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "kaggle"
+              "title": "kaggle可用比赛"
             }
           },
           {
@@ -88,13 +88,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kaggle.md",
+                "file": "kaggle/kaggle可用比赛.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "kaggle"
+              "title": "kaggle可用比赛"
             }
           },
           {
@@ -146,7 +146,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -217,10 +217,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kaggle.md"
+                "file": "kaggle/kaggle可用比赛.md"
               },
               "icon": "lucide-list",
-              "title": "kaggle 的大纲"
+              "title": "kaggle可用比赛 的大纲"
             }
           }
         ]
@@ -236,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kaggle.md",
+                "file": "kaggle/kaggle可用比赛.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -246,7 +246,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "kaggle 的反向链接列表"
+              "title": "kaggle可用比赛 的反向链接列表"
             }
           },
           {
@@ -283,8 +283,12 @@
   },
   "active": "cc1b8584ec73e4c9",
   "lastOpenFiles": [
+    "kaggle/rsna-2024-lumber-spine-efficientnet-v2-s 1.ipynb",
+    "kaggle/rsna-2024-lumber-spine-efficientnet-v2-s.ipynb",
+    "kaggle",
+    "rsna-2024-lumber-spine-efficientnet-v2-s.ipynb",
     "深度学习/神经网络结构/EfficientNet.md",
-    "kaggle.md",
+    "kaggle/kaggle可用比赛.md",
     "Python/使用国内 pip 源.md",
     "Linux/docker容器中部署wxWidgets.md",
     "Linux/docker安装mysql8.0.20并开启远程连接.md",
@@ -327,11 +331,7 @@
     "深度学习/神经网络元素/梯度下降.md",
     "深度学习/神经网络元素/卷积层.md",
     "深度学习/神经网络元素/激活函数.md",
-    "深度学习/神经网络元素/转置卷积.md",
     "深度学习/神经网络结构/LeNet",
-    "深度学习/神经网络元素/激活函数",
-    "深度学习/神经网络元素/卷积层",
-    "深度学习/神经网络结构/YOLO",
     "深度学习/未命名.canvas"
   ]
 }

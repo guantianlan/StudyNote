@@ -1,6 +1,6 @@
 {
   "promptDelete": true,
-  "attachmentFolderPath": "./kaggle",
+  "attachmentFolderPath": "./kaggle可用比赛",
   "newFileLocation": "root",
   "alwaysUpdateLinks": true,
   "foldHeading": true,
