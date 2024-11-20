@@ -9,3 +9,6 @@
 
 # 三、识别医疗执照考试患者记录中的关键短语
 [NBME - Score Clinical Patient Notes | Kaggle](https://www.kaggle.com/competitions/nbme-score-clinical-patient-notes/data)
+
+# 识别人肾组织图像中的肾小球
+[HuBMAP - Hacking the Kidney | Kaggle](https://www.kaggle.com/competitions/hubmap-kidney-segmentation/data)
