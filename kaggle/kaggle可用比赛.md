@@ -16,3 +16,5 @@
 # 在眼部图像中识别糖尿病视网膜病变的体征
 [Diabetic Retinopathy Detection | Kaggle](https://www.kaggle.com/competitions/diabetic-retinopathy-detection)
 
+# 使用背面图像进行脊柱侧弯筛查的深度学习算法的开发和验证
+[Development and validation of deep learning algorithms for scoliosis screening using back images | Communications Biology](https://www.nature.com/articles/s42003-019-0635-8#data-availability)
