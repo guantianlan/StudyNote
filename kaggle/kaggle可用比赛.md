@@ -1,6 +1,8 @@
 # 一、RSNA 2024 腰椎退行性分类
 [# RSNA 2024 腰椎退行性分类](https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification/overview)
-可用代码 [ RSNA EfficientNet 入门笔记本](https://www.kaggle.com/code/shubhamcodez/rsna-efficientnet-starter-notebook)
+可用代码 
+[ RSNA EfficientNet 入门笔记本](https://www.kaggle.com/code/shubhamcodez/rsna-efficientnet-starter-notebook)
+[RSNA Simple Pytorch CNN Pipeline d0d8ce 849f13](https://www.kaggle.com/code/cckimm/rsna-simple-pytorch-cnn-pipeline-d0d8ce-849f13)
 # 二、RSNA 筛查 乳腺 X 线摄影 乳腺癌检测
 [RSNA Screening Mammography Breast Cancer Detection | Kaggle](https://www.kaggle.com/competitions/rsna-breast-cancer-detection/data)
 可用代码：[Fetching Title#dtcx](https://www.kaggle.com/code/andradaolteanu/rsna-breast-cancer-eda-pytorch-baseline#5.1-ResNet50)
