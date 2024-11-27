@@ -11,4 +11,8 @@
 [第 3 名解决方案](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification/discussion/492471)
 [GitHub - darraghdog/kaggle-hms-3rd-place-solution: HMS - Harmful Brain Activity Classification](https://github.com/darraghdog/kaggle-hms-3rd-place-solution)
 
+# CAFA 5 蛋白功能预测
+[CAFA 5 Protein Function Prediction | Kaggle](https://www.kaggle.com/competitions/cafa-5-protein-function-prediction/overview)
+[CAFA 5 Protein Function Prediction | Kaggle](https://www.kaggle.com/competitions/cafa-5-protein-function-prediction/code?competitionId=41875&sortBy=voteCount&excludeNonAccessedDatasources=true)
+[CAFA 5 protein function with TensorFlow](https://www.kaggle.com/code/gusthema/cafa-5-protein-function-with-tensorflow#Training)
 
