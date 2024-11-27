@@ -12,3 +12,7 @@
 
 # 识别人肾组织图像中的肾小球
 [HuBMAP - Hacking the Kidney | Kaggle](https://www.kaggle.com/competitions/hubmap-kidney-segmentation/data)
+
+# 在眼部图像中识别糖尿病视网膜病变的体征
+[Diabetic Retinopathy Detection | Kaggle](https://www.kaggle.com/competitions/diabetic-retinopathy-detection)
+
