@@ -1,6 +1,6 @@
 {
   "promptDelete": true,
-  "attachmentFolderPath": "./kaggle可用比赛",
+  "attachmentFolderPath": "./docker容器配置ssh",
   "newFileLocation": "root",
   "alwaysUpdateLinks": true,
   "foldHeading": true,

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "docker容器配置ssh",
+      "path": "Linux/docker容器配置ssh.md"
+    },
+    {
+      "basename": "docker容器中部署wxWidgets",
+      "path": "Linux/docker容器中部署wxWidgets.md"
+    },
+    {
       "basename": "kaggle可用比赛",
       "path": "kaggle/kaggle可用比赛.md"
     },
@@ -13,20 +21,12 @@
       "path": "Python/使用国内 pip 源.md"
     },
     {
-      "basename": "docker容器中部署wxWidgets",
-      "path": "Linux/docker容器中部署wxWidgets.md"
-    },
-    {
       "basename": "docker安装mysql8.0.20并开启远程连接",
       "path": "Linux/docker安装mysql8.0.20并开启远程连接.md"
     },
     {
       "basename": "WSL2 安装心得",
       "path": "Linux/WSL2 安装心得.md"
-    },
-    {
-      "basename": "docker容器配置ssh",
-      "path": "Linux/docker容器配置ssh.md"
     },
     {
       "basename": "README",
