@@ -48,3 +48,5 @@
 
 [UBC Ovarian Cancer Subtype Classification and Outlier Detection (UBC-OCEAN) | Kaggle](https://www.kaggle.com/competitions/UBC-OCEAN/data?select=train.csv)
 
+[Wirtualny Mikroskop - CI TASK](https://wirtualnymikroskop.mostwiedzy.pl/list/?&tissues=C56.90&offset=0&diagnosis=endometrioid)
+[PTRC-HGSOC - The Cancer Imaging Archive (TCIA)](https://www.cancerimagingarchive.net/collection/ptrc-hgsoc/)
