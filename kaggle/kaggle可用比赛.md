@@ -50,3 +50,4 @@
 
 [Wirtualny Mikroskop - CI TASK](https://wirtualnymikroskop.mostwiedzy.pl/list/?&tissues=C56.90&offset=0&diagnosis=endometrioid)
 [PTRC-HGSOC - The Cancer Imaging Archive (TCIA)](https://www.cancerimagingarchive.net/collection/ptrc-hgsoc/)
+[CPTAC-OV - The Cancer Imaging Archive (TCIA)](https://www.cancerimagingarchive.net/collection/cptac-ov/)
