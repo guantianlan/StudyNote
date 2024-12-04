@@ -25,17 +25,7 @@
 [第 2 名解决方案](https://www.kaggle.com/competitions/rsna-breast-cancer-detection/discussion/391676)
 
 [ 第 1名解决方案](https://www.kaggle.com/competitions/rsna-breast-cancer-detection/discussion/392449)
-	```````````````````````````
- 	
-```
-```
-```
-```
-```
-```
-```
-```
-```
+
 [第 3 名解决方案（数据处理和图像级模型的一部分）](https://www.kaggle.com/competitions/rsna-breast-cancer-detection/discussion/391725)
 
 往届挑战杯有关于乳腺癌检测，但没有关于 ai 方面的，大部分是用机器检测
@@ -81,7 +71,7 @@
 
 [CAFA 5 protein function with TensorFlow](https://www.kaggle.com/code/gusthema/cafa-5-protein-function-with-tensorflow#Training)
 
-[ProteiNet 🧬 PyTorch+EMS2/T5/ProtBERT Embeddings | Kaggle](https://www.kaggle.com/code/henriupton/proteinet-pytorch-ems2-t5-protbert-embeddings) 
+[ProteiNet 🧬 PyTorch+EMS2/T5/ProtBERT Embeddings | Kaggle](https://www.kaggle.com/code/henriupton/proteinet-pytorch-ems2-t5-protbert-embeddings)
 
 [CAFA Protein Function Annotation Challenges | Kaggle](https://www.kaggle.com/datasets/alexandervc/cafa-protein-function-annotation-challenges)
 
