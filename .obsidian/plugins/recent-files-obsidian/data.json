@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "kaggle可用比赛",
+      "path": "kaggle/kaggle可用比赛.md"
+    },
+    {
       "basename": "docker容器配置ssh",
       "path": "Linux/docker容器配置ssh.md"
     },
     {
       "basename": "docker容器中部署wxWidgets",
       "path": "Linux/docker容器中部署wxWidgets.md"
-    },
-    {
-      "basename": "kaggle可用比赛",
-      "path": "kaggle/kaggle可用比赛.md"
     },
     {
       "basename": "EfficientNet",
