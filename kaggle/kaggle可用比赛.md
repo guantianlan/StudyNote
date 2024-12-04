@@ -8,7 +8,9 @@
 [RSNA Simple Pytorch CNN Pipeline d0d8ce 849f13](https://www.kaggle.com/code/cckimm/rsna-simple-pytorch-cnn-pipeline-d0d8ce-849f13)
 # 二、RSNA 筛查 乳腺 X 线摄影 乳腺癌检测
 [RSNA Screening Mammography Breast Cancer Detection | Kaggle](https://www.kaggle.com/competitions/rsna-breast-cancer-detection/data)
-可用代码：[Fetching Title#dtcx](https://www.kaggle.com/code/andradaolteanu/rsna-breast-cancer-eda-pytorch-baseline#5.1-ResNet50)
+可用代码：
+[Fetching Title#dtcx](https://www.kaggle.com/code/andradaolteanu/rsna-breast-cancer-eda-pytorch-baseline#5.1-ResNet50)
+[RSNA Screening Mammography Breast Cancer Detection | Kaggle](https://www.kaggle.com/competitions/rsna-breast-cancer-detection/discussion/392449)
 往届挑战杯有关于乳腺癌检测，但没有关于 ai 方面的，大部分是用机器检测
 1. **住院初诊乳腺癌患者健康信息需求的研究**：这是第十二届“挑战杯”省赛作品，属于生命科学类，旨在通过调查住院初诊乳腺癌患者对健康信息的需求的共性特点和个体差异，为护士制定健康教育方案提供依据。
 
