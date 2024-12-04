@@ -29,10 +29,15 @@
 
 可用代码
 [第 3 名解决方案](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification/discussion/492471)
+
 [GitHub - darraghdog/kaggle-hms-3rd-place-solution: HMS - Harmful Brain Activity Classification](https://github.com/darraghdog/kaggle-hms-3rd-place-solution)
+
 [There Model Ensemble [LB 0.3] | Kaggle]( https://www.kaggle.com/code/majiaqi111/there-model-ensemble-lb-0-3 )
+
 [HMS Resnet1d GRU Train - 1 / 5 Dataset | Kaggle](https://www.kaggle.com/code/konstantinboyko/hms-resnet1d-gru-train-1-5-dataset?scriptVersionId=166423947)
+
 [GitHub - yujansaya/harmful\_brain\_acitivity: Harmful Brain Activity Detection Classification - Classify seizures and other patterns of harmful brain activity in critically ill patients](https://github.com/yujansaya/harmful_brain_acitivity)
+
 [GitHub - katkibutiri/Harmful-Brain-Activity-Classification: Neural network classification](https://github.com/katkibutiri/Harmful-Brain-Activity-Classification)
 
 
@@ -54,3 +59,5 @@
 [PTRC-HGSOC - The Cancer Imaging Archive (TCIA)](https://www.cancerimagingarchive.net/collection/ptrc-hgsoc/)
 [CPTAC-OV - The Cancer Imaging Archive (TCIA)](https://www.cancerimagingarchive.net/collection/cptac-ov/)
 [OVARIAN-BEVACIZUMAB-RESPONSE - The Cancer Imaging Archive (TCIA)](https://www.cancerimagingarchive.net/collection/ovarian-bevacizumab-response/)
+
+
