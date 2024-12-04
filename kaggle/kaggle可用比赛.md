@@ -6,6 +6,8 @@
 [腰椎 MR 图像检测和分类（腰间盘突出）python实现\_left neural foraminal narrowing-CSDN博客](https://blog.csdn.net/weixin_42380711/article/details/141500187)
 [ RSNA EfficientNet 入门笔记本](https://www.kaggle.com/code/shubhamcodez/rsna-efficientnet-starter-notebook)
 [RSNA Simple Pytorch CNN Pipeline d0d8ce 849f13](https://www.kaggle.com/code/cckimm/rsna-simple-pytorch-cnn-pipeline-d0d8ce-849f13)
+
+没有找到相关挑战杯比赛
 # 二、RSNA 筛查 乳腺 X 线摄影 乳腺癌检测
 [RSNA Screening Mammography Breast Cancer Detection | Kaggle](https://www.kaggle.com/competitions/rsna-breast-cancer-detection/data)
 数据集：
@@ -23,6 +25,9 @@
 [第 2 名解决方案](https://www.kaggle.com/competitions/rsna-breast-cancer-detection/discussion/391676)
 
 [ 第 1名解决方案](https://www.kaggle.com/competitions/rsna-breast-cancer-detection/discussion/392449)
+
+[第 3 名解决方案（数据处理和图像级模型的一部分）](https://www.kaggle.com/competitions/rsna-breast-cancer-detection/discussion/391725)
+
 往届挑战杯有关于乳腺癌检测，但没有关于 ai 方面的，大部分是用机器检测
 1. **住院初诊乳腺癌患者健康信息需求的研究**：这是第十二届“挑战杯”省赛作品，属于生命科学类，旨在通过调查住院初诊乳腺癌患者对健康信息的需求的共性特点和个体差异，为护士制定健康教育方案提供依据。
 
@@ -56,6 +61,7 @@
 
 [GitHub - katkibutiri/Harmful-Brain-Activity-Classification: Neural network classification](https://github.com/katkibutiri/Harmful-Brain-Activity-Classification)
 
+没有找到相关挑战杯比赛
 
 # CAFA 5 蛋白功能预测
 
@@ -65,6 +71,7 @@
 
 [CAFA Protein Function Annotation Challenges | Kaggle](https://www.kaggle.com/datasets/alexandervc/cafa-protein-function-annotation-challenges)
 
+有类似的挑战杯比赛，是关于蛋白质结构的，用于预测蛋白质二级结构，和功能预测不同
 # 卵巢癌亚型分类和异常值检测
 
 [UBC Ovarian Cancer Subtype Classification and Outlier Detection (UBC-OCEAN) | Kaggle](https://www.kaggle.com/competitions/UBC-OCEAN/data?select=train.csv)
@@ -76,4 +83,4 @@
 [CPTAC-OV - The Cancer Imaging Archive (TCIA)](https://www.cancerimagingarchive.net/collection/cptac-ov/)
 [OVARIAN-BEVACIZUMAB-RESPONSE - The Cancer Imaging Archive (TCIA)](https://www.cancerimagingarchive.net/collection/ovarian-bevacizumab-response/)
 
-
+有类似项目参与挑战杯比赛，是关于健康信息需求、血清蛋白指纹图谱、便携式超声辅助诊断、电阻抗成像技术、液体活检纳米金探针，没有 ai 方面方面相关的 
