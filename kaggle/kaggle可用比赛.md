@@ -71,7 +71,7 @@
 
 [CAFA 5 protein function with TensorFlow](https://www.kaggle.com/code/gusthema/cafa-5-protein-function-with-tensorflow#Training)
 
-[ProteiNet 🧬 PyTorch+EMS2/T5/ProtBERT Embeddings | Kaggle](https://www.kaggle.com/code/henriupton/proteinet-pytorch-ems2-t5-protbert-embeddings)
+[ProteiNet 🧬 PyTorch+EMS2/T5/ProtBERT Embeddings | Kaggle](https://www.kaggle.com/code/henriupton/proteinet-pytorch-ems2-t5-protbert-embeddings) 
 
 [CAFA Protein Function Annotation Challenges | Kaggle](https://www.kaggle.com/datasets/alexandervc/cafa-protein-function-annotation-challenges)
 
