@@ -195,10 +195,6 @@
     {
       "basename": "SQL-DQL-语法",
       "path": "数据库/Mysql数据库学习/SQL-DQL-语法.png"
-    },
-    {
-      "basename": "SQL-DQL-基本查询",
-      "path": "数据库/Mysql数据库学习/SQL-DQL-基本查询.png"
     }
   ],
   "omittedPaths": [],
