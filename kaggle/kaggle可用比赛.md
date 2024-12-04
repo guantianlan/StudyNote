@@ -44,3 +44,7 @@
 
 [CAFA Protein Function Annotation Challenges | Kaggle](https://www.kaggle.com/datasets/alexandervc/cafa-protein-function-annotation-challenges)
 
+# 卵巢癌亚型分类和异常值检测
+
+[UBC Ovarian Cancer Subtype Classification and Outlier Detection (UBC-OCEAN) | Kaggle](https://www.kaggle.com/competitions/UBC-OCEAN/data?select=train.csv)
+
