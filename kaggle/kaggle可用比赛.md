@@ -28,6 +28,8 @@
 [[NBME - Score Clinical Patient Notes | Kaggle]](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification/data)[HMS - Harmful Brain Activity Classification | Kaggle](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification/data)
 
 可用代码
+[HMS - Harmful Brain Activity Classification | Kaggle](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification/discussion/492560)
+
 [第 3 名解决方案](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification/discussion/492471)
 
 [GitHub - darraghdog/kaggle-hms-3rd-place-solution: HMS - Harmful Brain Activity Classification](https://github.com/darraghdog/kaggle-hms-3rd-place-solution)
