@@ -43,7 +43,7 @@
 
 7. **乳癌无忧---乳腺癌早筛领航者**：该项目在第十三届“挑战杯”中国大学生创业计划竞赛中斩获国赛银奖，是医学影像学院的项目。
 >针对目前检测领域中高性能分子识别材料缺乏，自主研发高性能磁纳米马达材料
-# 三、## HMS - 有害大脑活动分类
+# 三、HMS - 有害大脑活动分类
 [[NBME - Score Clinical Patient Notes | Kaggle]](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification/data)[HMS - Harmful Brain Activity Classification | Kaggle](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification/data)
 
 可用代码
@@ -63,9 +63,11 @@
 
 没有找到相关挑战杯比赛
 
-# CAFA 5 蛋白功能预测
+# 四、CAFA 5 蛋白功能预测
 
 [CAFA 5 Protein Function Prediction | Kaggle](https://www.kaggle.com/competitions/cafa-5-protein-function-prediction/overview)
+
+往届CAF
 
 [Pytorch,Keras,Etc 3 Blend, CAFA metric, etc | Kaggle](https://www.kaggle.com/code/alexandervc/pytorch-keras-etc-3-blend-cafa-metric-etc#Optimizer-%22Sophia%22-sometimes-better-than-Adam)
 
@@ -73,10 +75,10 @@
 
 [ProteiNet 🧬 PyTorch+EMS2/T5/ProtBERT Embeddings | Kaggle](https://www.kaggle.com/code/henriupton/proteinet-pytorch-ems2-t5-protbert-embeddings)
 
-[CAFA Protein Function Annotation Challenges | Kaggle](https://www.kaggle.com/datasets/alexandervc/cafa-protein-function-annotation-challenges)
+
 
 有类似的挑战杯比赛，是关于蛋白质结构的，用于预测蛋白质二级结构，和功能预测不同
-# 卵巢癌亚型分类和异常值检测
+# 五、卵巢癌亚型分类和异常值检测
 
 [UBC Ovarian Cancer Subtype Classification and Outlier Detection (UBC-OCEAN) | Kaggle](https://www.kaggle.com/competitions/UBC-OCEAN/data?select=train.csv)
 代码：
