@@ -25,7 +25,17 @@
 [第 2 名解决方案](https://www.kaggle.com/competitions/rsna-breast-cancer-detection/discussion/391676)
 
 [ 第 1名解决方案](https://www.kaggle.com/competitions/rsna-breast-cancer-detection/discussion/392449)
-
+	```````````````````````````
+ 	
+```
+```
+```
+```
+```
+```
+```
+```
+```
 [第 3 名解决方案（数据处理和图像级模型的一部分）](https://www.kaggle.com/competitions/rsna-breast-cancer-detection/discussion/391725)
 
 往届挑战杯有关于乳腺癌检测，但没有关于 ai 方面的，大部分是用机器检测
