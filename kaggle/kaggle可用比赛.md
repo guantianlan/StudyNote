@@ -66,7 +66,9 @@
 # CAFA 5 蛋白功能预测
 
 [CAFA 5 Protein Function Prediction | Kaggle](https://www.kaggle.com/competitions/cafa-5-protein-function-prediction/overview)
-[CAFA 5 Protein Function Prediction | Kaggle](https://www.kaggle.com/competitions/cafa-5-protein-function-prediction/code?competitionId=41875&sortBy=voteCount&excludeNonAccessedDatasources=true)
+
+[[CAFA 5 Protein Function Prediction | Kaggle](https://www.kaggle.com/competitions/cafa-5-protein-function-prediction/discussion/466917)](https://www.kaggle.com/competitions/cafa-5-protein-function-prediction/discussion/466917)[CAFA 5 Protein Function Prediction | Kaggle](https://www.kaggle.com/competitions/cafa-5-protein-function-prediction/discussion/466917)
+
 [CAFA 5 protein function with TensorFlow](https://www.kaggle.com/code/gusthema/cafa-5-protein-function-with-tensorflow#Training)
 
 [CAFA Protein Function Annotation Challenges | Kaggle](https://www.kaggle.com/datasets/alexandervc/cafa-protein-function-annotation-challenges)
