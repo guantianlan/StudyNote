@@ -1,4 +1,5 @@
 # 一、RSNA 2024 腰椎退行性分类
+使用腰椎 MR 图像检测和分类退行性脊柱疾病。
 [# RSNA 2024 腰椎退行性分类](https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification/overview)
 可用代码 
 [ RSNA EfficientNet 入门笔记本](https://www.kaggle.com/code/shubhamcodez/rsna-efficientnet-starter-notebook)
