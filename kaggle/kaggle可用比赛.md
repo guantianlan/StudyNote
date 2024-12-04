@@ -47,7 +47,10 @@
 # 卵巢癌亚型分类和异常值检测
 
 [UBC Ovarian Cancer Subtype Classification and Outlier Detection (UBC-OCEAN) | Kaggle](https://www.kaggle.com/competitions/UBC-OCEAN/data?select=train.csv)
-
+代码：
+[UBC Ovarian Cancer Subtype Classification and Outlier Detection (UBC-OCEAN) | Kaggle](https://www.kaggle.com/competitions/UBC-OCEAN/discussion/465697)
+数据集
 [Wirtualny Mikroskop - CI TASK](https://wirtualnymikroskop.mostwiedzy.pl/list/?&tissues=C56.90&offset=0&diagnosis=endometrioid)
 [PTRC-HGSOC - The Cancer Imaging Archive (TCIA)](https://www.cancerimagingarchive.net/collection/ptrc-hgsoc/)
 [CPTAC-OV - The Cancer Imaging Archive (TCIA)](https://www.cancerimagingarchive.net/collection/cptac-ov/)
+[OVARIAN-BEVACIZUMAB-RESPONSE - The Cancer Imaging Archive (TCIA)](https://www.cancerimagingarchive.net/collection/ovarian-bevacizumab-response/)
