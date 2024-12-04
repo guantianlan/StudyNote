@@ -67,9 +67,11 @@
 
 [CAFA 5 Protein Function Prediction | Kaggle](https://www.kaggle.com/competitions/cafa-5-protein-function-prediction/overview)
 
-[[CAFA 5 Protein Function Prediction | Kaggle](https://www.kaggle.com/competitions/cafa-5-protein-function-prediction/discussion/466917)](https://www.kaggle.com/competitions/cafa-5-protein-function-prediction/discussion/466917)[CAFA 5 Protein Function Prediction | Kaggle](https://www.kaggle.com/competitions/cafa-5-protein-function-prediction/discussion/466917)
+[Pytorch,Keras,Etc 3 Blend, CAFA metric, etc | Kaggle](https://www.kaggle.com/code/alexandervc/pytorch-keras-etc-3-blend-cafa-metric-etc#Optimizer-%22Sophia%22-sometimes-better-than-Adam)
 
 [CAFA 5 protein function with TensorFlow](https://www.kaggle.com/code/gusthema/cafa-5-protein-function-with-tensorflow#Training)
+
+[ProteiNet 🧬 PyTorch+EMS2/T5/ProtBERT Embeddings | Kaggle](https://www.kaggle.com/code/henriupton/proteinet-pytorch-ems2-t5-protbert-embeddings)
 
 [CAFA Protein Function Annotation Challenges | Kaggle](https://www.kaggle.com/datasets/alexandervc/cafa-protein-function-annotation-challenges)
 
