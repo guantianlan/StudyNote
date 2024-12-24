@@ -266,8 +266,9 @@
       "obsidian-file-cleaner:清理文件": false
     }
   },
-  "active": "8ffd23efc4a5a84a",
+  "active": "22ac99da8a9c48b5",
   "lastOpenFiles": [
+    "未命名",
     "比赛/kaggle可用比赛.md",
     "比赛/比赛思路.md",
     "叶铖简历.pdf",
@@ -316,7 +317,6 @@
     "数据库/数据库链接.md",
     "深度学习/神经网络元素/梯度下降.md",
     "深度学习/神经网络元素/卷积层.md",
-    "深度学习/神经网络元素/激活函数.md",
     "深度学习/未命名.canvas"
   ]
 }
