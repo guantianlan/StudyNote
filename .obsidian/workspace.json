@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "比赛/比赛思路.md",
+                "file": "计算机408/操作系统/操作系统.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "比赛思路"
+              "title": "操作系统"
             }
           },
           {
@@ -202,10 +202,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "比赛/比赛思路.md"
+                "file": "计算机408/操作系统/操作系统.md"
               },
               "icon": "lucide-list",
-              "title": "比赛思路 的大纲"
+              "title": "操作系统 的大纲"
             }
           }
         ]
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "比赛/比赛思路.md",
+                "file": "计算机408/操作系统/操作系统.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "比赛思路 的反向链接列表"
+              "title": "操作系统 的反向链接列表"
             }
           },
           {
@@ -266,11 +266,13 @@
       "obsidian-file-cleaner:清理文件": false
     }
   },
-  "active": "22ac99da8a9c48b5",
+  "active": "8ffd23efc4a5a84a",
   "lastOpenFiles": [
-    "未命名",
-    "比赛/kaggle可用比赛.md",
     "比赛/比赛思路.md",
+    "计算机408/操作系统/操作系统.md",
+    "计算机408/操作系统",
+    "计算机408",
+    "比赛/kaggle可用比赛.md",
     "叶铖简历.pdf",
     "比赛/kaggle可用比赛/叶铖简历.pdf",
     "比赛/kaggle可用比赛",
@@ -288,14 +290,12 @@
     "Python/第二课堂学分认证.md",
     "未命名.canvas",
     "未命名 1.canvas",
-    "计算机网络/计算机网络.md",
-    "计算机网络/千兆以太网极限传输速度计算.md",
+    "计算机408/计算机网络/计算机网络.md",
+    "计算机408/计算机网络/千兆以太网极限传输速度计算.md",
     "Linux/Ubuntu安装docker并使用jupyter.md",
     "操作系统/WSL2 安装心得/WSL2 安装心得.md",
     "操作系统/WSL2 安装心得",
-    "操作系统/docker安装mysql8.0.20并开启远程连接",
     "Java/spring6.md",
-    "Linux",
     "Java/反射.md",
     "Java/配置Maven.md",
     "2024-09-07.md",
@@ -306,11 +306,11 @@
     "Java/配置Maven/MAVEN_HOME配置.png",
     "Java/配置Maven/Maven下载.png",
     "Java/配置Maven/image-20240907135912114.png",
-    "计算机网络/计算机网络/分组交换技术.png",
+    "计算机408/计算机网络/计算机网络/分组交换技术.png",
     "深度学习/神经网络结构/YOLO.md",
-    "计算机网络/计算机网络/计算机网络的功能.png",
-    "计算机网络/计算机网络/从逻辑功能看.png",
-    "计算机网络/计算机网络/从工作方式来看-2.png",
+    "计算机408/计算机网络/计算机网络/计算机网络的功能.png",
+    "计算机408/计算机网络/计算机网络/从逻辑功能看.png",
+    "计算机408/计算机网络/计算机网络/从工作方式来看-2.png",
     "计算机网络/test.md",
     "Java/Java基础学习.md",
     "数据库/Mysql数据库学习.md",
