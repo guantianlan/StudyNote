@@ -9,14 +9,6 @@
       "path": "README.md"
     },
     {
-      "basename": "比赛思路",
-      "path": "比赛/比赛思路.md"
-    },
-    {
-      "basename": "kaggle可用比赛",
-      "path": "比赛/kaggle可用比赛.md"
-    },
-    {
       "basename": "docker容器配置ssh",
       "path": "Linux/docker容器配置ssh.md"
     },
