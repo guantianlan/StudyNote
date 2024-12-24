@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机408/操作系统/操作系统.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "操作系统"
+              "title": "README"
             }
           },
           {
@@ -202,10 +202,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机408/操作系统/操作系统.md"
+                "file": "README.md"
               },
               "icon": "lucide-list",
-              "title": "操作系统 的大纲"
+              "title": "README 的大纲"
             }
           }
         ]
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机408/操作系统/操作系统.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "操作系统 的反向链接列表"
+              "title": "README 的反向链接列表"
             }
           },
           {
@@ -268,8 +268,8 @@
   },
   "active": "8ffd23efc4a5a84a",
   "lastOpenFiles": [
-    "比赛/比赛思路.md",
     "计算机408/操作系统/操作系统.md",
+    "比赛/比赛思路.md",
     "计算机408/操作系统",
     "计算机408",
     "比赛/kaggle可用比赛.md",

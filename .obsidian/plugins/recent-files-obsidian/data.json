@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "操作系统",
       "path": "计算机408/操作系统/操作系统.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "WSL2 安装心得",
       "path": "Linux/WSL2 安装心得.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "第二课堂学分认证",
