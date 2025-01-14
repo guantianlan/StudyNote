@@ -73,28 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机408/操作系统/操作系统.md",
+                "file": "私密/密钥.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "操作系统"
-            }
-          },
-          {
-            "id": "5c50eaa518933c38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名"
+              "title": "密钥"
             }
           },
           {
@@ -113,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -217,10 +202,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "私密/密钥.md"
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "密钥 的大纲"
             }
           }
         ]
@@ -236,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "私密/密钥.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -246,7 +231,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "未命名 的反向链接列表"
+              "title": "密钥 的反向链接列表"
             }
           },
           {
@@ -281,10 +266,12 @@
       "obsidian-file-cleaner:清理文件": false
     }
   },
-  "active": "5c50eaa518933c38",
+  "active": "8ffd23efc4a5a84a",
   "lastOpenFiles": [
-    "计算机408/操作系统/操作系统.md",
     "未命名.md",
+    "私密/密钥.md",
+    "私密",
+    "计算机408/操作系统/操作系统.md",
     "README.md",
     "比赛/比赛思路.md",
     "计算机408/操作系统",
@@ -310,7 +297,6 @@
     "计算机408/计算机网络/千兆以太网极限传输速度计算.md",
     "Linux/Ubuntu安装docker并使用jupyter.md",
     "操作系统/WSL2 安装心得/WSL2 安装心得.md",
-    "操作系统/WSL2 安装心得",
     "Java/spring6.md",
     "Java/反射.md",
     "Java/配置Maven.md",
@@ -331,7 +317,6 @@
     "Java/Java基础学习.md",
     "数据库/Mysql数据库学习.md",
     "数据库/数据库链接.md",
-    "深度学习/神经网络元素/梯度下降.md",
     "深度学习/未命名.canvas"
   ]
 }
