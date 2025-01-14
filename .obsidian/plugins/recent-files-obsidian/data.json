@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "git推送至GitHub",
+      "path": "git/git推送至GitHub.md"
+    },
+    {
       "basename": "密钥",
       "path": "私密/密钥.md"
     },
@@ -179,10 +183,6 @@
     {
       "basename": "Static",
       "path": "Java/Java基础学习/Static.jpg"
-    },
-    {
-      "basename": "git推送至GitHub",
-      "path": "git/git推送至GitHub.md"
     },
     {
       "basename": "多态向下转型",

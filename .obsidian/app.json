@@ -1,6 +1,6 @@
 {
   "promptDelete": true,
-  "attachmentFolderPath": "./密钥",
+  "attachmentFolderPath": "./git推送至GitHub",
   "newFileLocation": "root",
   "alwaysUpdateLinks": true,
   "foldHeading": true,
